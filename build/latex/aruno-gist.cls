@@ -63,10 +63,11 @@
 
 \setmainfont[ItalicFont = Shaker 2 Light Italic,]{Shaker 2 Light}
 
-\newfontfamily\shaker{Shaker Pali}
+\newfontfamily\shaker[ItalicFont = Shaker Pali Italic]{Shaker Pali}
+\newfontfamily\shakerPali[ItalicFont = Shaker Pali Italic]{Shaker Pali}
 \newfontfamily\chapTitleFont[ItalicFont = Shaker 2 Light Italic]{Shaker 2 Light}
 \newfontfamily\chapNameFont[ItalicFont = Shaker 2 Light Italic]{Shaker 2 Light}
-\newfontfamily\chapNumFont{Shaker Pali}
+\newfontfamily\chapNumFont[ItalicFont = Shaker Pali Italic]{Shaker Pali}
 
 \newfontfamily\sectionFont{Shaker Pali}
 
@@ -74,6 +75,8 @@
 \newfontfamily\footFont[ItalicFont = Shaker 2 Light Italic]{Shaker 2 Light}
 
 \newfontfamily\tocPageNumFont{Shaker Pali}
+
+\newcommand{\pali}[1]{\textit{\shakerPali #1}}
 
 %% ===========================================
 %% Set font sizes, indentation, etc.
@@ -285,7 +288,6 @@ outer=15mm
 
 \def\gobble@spaces{\@ifnextchar\space{\@gobble\gobble@spaces}{}}
 \newcommand{\verseref}[1]{\mbox{}\marginpar{\par\vspace*{-7pt}\oldNumFont #1.}\gobble@spaces}
-\newcommand{\pali}[1]{\textit{#1}}
 \newcommand{\suttaref}[1]{\hspace*{\fill}\footnotesize\begingroup #1 \endgroup\par}
 \newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
 
