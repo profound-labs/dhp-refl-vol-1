@@ -1,0 +1,93 @@
+\documentclass{aruno-gist}
+
+\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{Dhammapada Reflections}
+\subtitle{52 verses from the Dhammapada with comments}
+\author{Ajahn Munindo}
+\date{}
+\editionInfo{}
+\ISBN{000-0-000000-00-0}
+
+\hyphenation{prep-a-ra-tion belief attrac-tive under-stand-ing moment}
+
+\begin{document}
+
+\thispagestyle{empty}
+\mbox{}
+\pagecolor[gray]{0.7}
+\newpage
+\thispagestyle{empty}
+\pagecolor{white}
+\mbox{}
+\newpage
+
+%% Frontmatter
+%% ===========
+
+\frontmatter*
+\pagestyle{empty}
+
+\midsloppy
+
+\input{../../manuscript/tex/frontverse.tex}
+
+%\input{../../manuscript/tex/acknowledgement.tex}
+
+\input{../../manuscript/tex/dedication.tex}
+
+\input{../../manuscript/tex/titlepage.tex}
+
+\input{../../manuscript/tex/copyright.tex}
+
+\chapterstyle{frontmatter}
+
+\input{../../manuscript/tex/preface.tex}
+
+\input{../../manuscript/tex/introduction.tex}
+
+%% Main matter
+%% ===========
+
+\mainmatter*
+
+\input{../../manuscript/tex/booktitle.tex}
+
+\setcounter{chapter}{0}
+\setcounter{page}{1}
+\pagestyle{normalpage}
+\chapterstyle{mainmatter}
+
+\setlength{\parskip}{0.6\baselineskip}
+\setlength{\parindent}{0pt}
+
+\input{../../manuscript/tex/versepages.tex}
+
+\backmatter
+
+\bookmarksetup{startatroot}
+
+\chapterstyle{backmatter}
+\newgeometry{vmargin=15mm, hmargin=10mm}
+
+\input{../../manuscript/tex/index-of-first-lines.tex}
+
+%% Copyright details
+%% -----------------
+
+\cleartorecto
+\thispagestyle{plain}
+\input{../../manuscript/tex/copyright-details.tex}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+\thispagestyle{empty}
+\pagecolor[gray]{0.7}
+\mbox{}
+
+\end{document}

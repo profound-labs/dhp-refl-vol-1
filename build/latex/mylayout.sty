@@ -1,0 +1,20 @@
+\ProvidesPackage{mylayout}
+
+% customizations over the general document class.
+
+\usepackage[british]{babel}
+
+\newcommand{\dhpversenumsize}{\@setfontsize\dhpversenumsize{11}{14.5}}
+\renewenvironment{dhpVerse}[1]
+{\def\verseref{\textit{v. {\small #1}}}
+\cleartoverso
+\begin{minipage}[c][\textheight][c]{\textwidth}
+\setlength{\parskip}{0.6\baselineskip}
+\setlength{\parindent}{0pt}
+\dhpversesize\versealign}
+{\par{\dhpversenumsize\verseref}
+\end{minipage}}
+
+\renewcommand{\versealign}{\centering}
+\setlength{\chapterskipoffset}{-\onelineskip}
+

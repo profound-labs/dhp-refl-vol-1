@@ -1,0 +1,18 @@
+
+# General Config
+# ==============
+
+title: "Dhammapada Reflections"
+subtitle: "52 verses from the Dhammapada with comments"
+author: "Ajahn Munindo"
+date: 2013-10-02
+
+cover_image: "cover.jpg"
+
+exclude_assets: [ "cover.xcf", ]
+
+publisher: "The Publisher"
+publisher_atag: "<a href='http://thepublisher.org/' target='_blank'>www.thepublisher.org</a>"
+publisher_logo: "publisher-logo.jpg"
+book_atag: "<a href='http://thepublisher.org/thebookurl/' target='_blank'>www.thepublisher.org/thebookurl</a>"
+
