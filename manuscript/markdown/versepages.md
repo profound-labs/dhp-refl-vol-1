@@ -13,7 +13,7 @@
 > purifying heart and mind.
 >
 > *v. 87-88*
-{:.dhp-verse}
+{:.dhp-verse #page1}
 
 The Buddha offers images that illustrate the goal, uplifting and
 supporting us in our effort to let go of that which obstructs and limits
@@ -34,7 +34,7 @@ we cherish it and discover how to love truth more fully.
 > both now and in the future.
 >
 > *v. 169*
-{:.dhp-verse}
+{:.dhp-verse #page2}
 
 With a heart of contentment as our foundation, we can tackle the tasks
 that confront us. There are times we need to be brave warriors battling
@@ -55,7 +55,7 @@ vitality and enthusiasm.
 > outshines dark shadows cast by ignorance.
 >
 > *v. 58-59*
-{:.dhp-verse}
+{:.dhp-verse #page3}
 
 We tend to see the things we don’t like about ourselves and others as
 obstructions to our happiness. ‘How radiant, how fulfilled I would feel,
@@ -75,7 +75,7 @@ beautiful lotuses take root and grow in the unbeautiful.
 > which is greater.
 >
 > *v. 290*
-{:.dhp-verse}
+{:.dhp-verse #page4}
 
 The filters of our preferences tragically limit our seeing. We want to
 let go of that which binds us but often our will fails us. Wise
@@ -99,7 +99,7 @@ vision and enables pursuit of the goal.
 > anybody who is only blamed or wholly praised.
 >
 > *v. 227-228*
-{:.dhp-verse}
+{:.dhp-verse #page5}
 
 Whatever we do in this life, whatever we say (or don’t say), we cannot
 avoid being criticised. The Buddha was blamed and criticised just like
@@ -122,7 +122,7 @@ nor others.
 > in joyous and caring company.
 >
 > *v. 328*
-{:.dhp-verse}
+{:.dhp-verse #page6}
 
 Our mind, like water, takes on the shape of the vessel in which it is
 contained. The Teacher is encouraging us to be mindful of the company we
@@ -141,7 +141,7 @@ interested in protecting all beings from harm.
 > is unmoved by Māra.
 >
 > *v. 8*
-{:.dhp-verse}
+{:.dhp-verse #page7}
 
 Māra is the manifestation of unenlightenment; the driving force of
 denial. Māra is the avoidance of reality and is expressed as
@@ -164,7 +164,7 @@ truth. This has the power to make us unshakable.
 > can distort or take away.
 >
 > *v. 104-105*
-{:.dhp-verse}
+{:.dhp-verse #page8}
 
 Unshakably established in the centre of our lives, nothing can unsettle
 us or generate causes for suffering. This is fearlessness. The Buddha’s
@@ -185,7 +185,7 @@ the victory of selflessness.
 > Therefore the sage is called wise.
 >
 > *v. 268-269*
-{:.dhp-verse}
+{:.dhp-verse #page9}
 
 The Buddha spoke of the contentment and benefit that can come from
 living in quiet and beautiful places. Limiting sense stimuli can assist
@@ -205,7 +205,7 @@ is wisdom that recognises this truth.
 > emerging from clouds.
 >
 > *v. 172*
-{:.dhp-verse}
+{:.dhp-verse #page10}
 
 On the full moon day of the month of Asalha, over two thousand five
 hundred years ago, the Buddha first revealed the Four Noble Truths. The
@@ -227,7 +227,7 @@ turning of this Dhamma Wheel.
 > those who support insight.
 >
 > *v. 78*
-{:.dhp-verse}
+{:.dhp-verse #page11}
 
 How do we hold our friendships and how do our friends hold us? We want
 to protect and nurture true friendship with those who support our
@@ -247,7 +247,7 @@ friendly we are being with ourselves.
 > tame themselves.
 >
 > *v. 145*
-{:.dhp-verse}
+{:.dhp-verse #page12}
 
 Crafts-people work their crafts. The endeavour of taming the heart’s
 unruly nature – there’s an art in that. Outwardly we may find ourselves
@@ -270,7 +270,7 @@ easier; gratitude manifests, even though the work is challenging.
 > should you not seek the light?
 >
 > *v. 146*
-{:.dhp-verse}
+{:.dhp-verse #page13}
 
 It is usually when we get burned by life that we turn to the Teachings.
 It can come as a relief to find that in our efforts to be free from
@@ -290,7 +290,7 @@ possibility of dwelling in the light of non-suffering.
 > as a goldsmith removes the dross.
 >
 > *v. 239*
-{:.dhp-verse}
+{:.dhp-verse #page14}
 
 No amount of wishing things were otherwise gives us what we long for. We
 want the pure gold of pristine awareness so we need to enter the fires
@@ -312,7 +312,7 @@ to share with others.
 > is an irreversible commitment to the Way.
 >
 > *v. 178*
-{:.dhp-verse}
+{:.dhp-verse #page15}
 
 Unconditioned freedom: a quality of being not dependent on any condition
 whatsoever. Whatever the circumstances, fortunate or unfortunate, the
@@ -333,7 +333,7 @@ ourselves distracted we refocus our commitment to the Way.
 > as if guiding one to hidden treasure.
 >
 > *v. 76*
-{:.dhp-verse}
+{:.dhp-verse #page16}
 
 There are two ways of approaching our practice: one is to assume we need
 to acquire something more; the other is to assume we have what we need –
@@ -359,7 +359,7 @@ journey to the end.
 > from an impure state of mind.
 >
 > *v. 1*
-{:.dhp-verse}
+{:.dhp-verse #page17}
 
 Thinking too much can complicate spiritual practice; not thinking enough
 can restrict us. Here we are given an example of wisely-directed
@@ -379,7 +379,7 @@ way.
 > The fruit of goodness is contentment.
 >
 > *v. 118*
-{:.dhp-verse}
+{:.dhp-verse #page18}
 
 The Dhamma encourages us to bring to heart the memory of wholesome acts
 performed by body, speech or mind and to dwell in the sense of gladness
@@ -402,7 +402,7 @@ mistakes and learn from them.
 > you arrive at the place beyond all suffering.
 >
 > *v. 348*
-{:.dhp-verse}
+{:.dhp-verse #page19}
 
 We can comfortably lose ourselves in ideas of the future. We can
 comfortably dwell in memories of the past. And we readily get lost in
@@ -425,7 +425,7 @@ door out of it.
 > in glorious splendour.
 >
 > *v. 387*
-{:.dhp-verse}
+{:.dhp-verse #page20}
 
 Whenever there is well-established mindfulness, there is beauty, clarity
 and the possibility for deepening understanding. If there is constant
@@ -441,7 +441,7 @@ of mindfulness shines in glorious splendour.
 > so in time the wise become replete with good.
 >
 > *v. 122*
-{:.dhp-verse}
+{:.dhp-verse #page21}
 
 ‘Bigger is better’. ‘The more the merrier’. Little by little such
 perceptions can be wisely questioned. Trust that every small moment of
@@ -459,7 +459,7 @@ true goodness.
 > non-retaliation is a sign of freedom.
 >
 > *v. 134*
-{:.dhp-verse}
+{:.dhp-verse #page22}
 
 When we receive unjustified criticism it can be hard to restrain the
 up-thrusts of passion. Pushing strong feelings down into unawareness
@@ -481,7 +481,7 @@ burning us out with self-criticism.
 > one does not attack or cause attack.
 >
 > *v. 130*
-{:.dhp-verse}
+{:.dhp-verse #page23}
 
 By being open to others we bring benefit to ourselves. In studying our
 own hearts and minds we generate benefit for others. Dhamma teaches us
@@ -503,7 +503,7 @@ insight and helps keep practice balanced.
 > are attractive indeed.
 >
 > *v. 262-263*
-{:.dhp-verse}
+{:.dhp-verse #page24}
 
 We need to remind ourselves that the way things appear to be is not
 necessarily the way things ‘are’. If we listen from the heart to someone
@@ -519,7 +519,7 @@ place deep within, we see much more than that which our eyes see.
 > which support them.
 >
 > *v. 162*
-{:.dhp-verse}
+{:.dhp-verse #page25}
 
 This verse refers to a monk who tried three times to kill the Buddha and
 eventually his evil actions contributed to his own death. When we betray
@@ -540,7 +540,7 @@ consequence.
 > is the supreme goal.
 >
 > *v. 184*
-{:.dhp-verse}
+{:.dhp-verse #page26}
 
 As we progress on our path towards the goal, the Buddha is encouraging
 us not to forget how we relate with others. The cultivation of metta
@@ -563,7 +563,7 @@ the only place, to develop this profound quality.
 > there are no quarrels.
 >
 > *v. 6*
-{:.dhp-verse}
+{:.dhp-verse #page27}
 
 It is OK to think about death and to talk about the fact that we all
 will die. Indeed it is wise to do so. If we deny the awareness of our
@@ -583,7 +583,7 @@ contentment that leads to meaningful peace.
 > with a pure state of mind.
 >
 > *v. 2*
-{:.dhp-verse}
+{:.dhp-verse #page28}
 
 Have you ever tried to run away from your shadow? As hard as you might
 try it never leaves you. Any action by body, speech or mind that is done
@@ -601,7 +601,7 @@ worth doing.
 > we keep hatred alive.
 >
 > *v. 3-4*
-{:.dhp-verse}
+{:.dhp-verse #page29}
 
 If we thoroughly release ourselves\\
 from such thoughts as,\\
@@ -627,7 +627,7 @@ We are letting go because we understand the consequences of hanging on.
 > fall away.
 >
 > *v. 377*
-{:.dhp-verse}
+{:.dhp-verse #page30}
 
 Ajahn Chah was in London, staying at the Hampstead Vihara. The monks
 were troubled by the noise that was coming from the pub across the road.
@@ -650,7 +650,7 @@ problem.
 > to a great being.
 >
 > *v. 401*
-{:.dhp-verse}
+{:.dhp-verse #page31}
 
 A great being is great because he or she is free from obstructions in
 their relationship with life. We are not so great because we get caught
@@ -672,7 +672,7 @@ adds nothing to it and takes nothing away.
 > This is eternal law.
 >
 > *v. 5*
-{:.dhp-verse}
+{:.dhp-verse #page32}
 
 To conquer hatred ‘by love alone’ can seem a lofty ideal. We might judge
 ourselves (and in so doing tend to excuse ourselves) as being too
@@ -695,7 +695,7 @@ is eternal law.
 > distinguishes a noble being.
 >
 > *v. 142*
-{:.dhp-verse}
+{:.dhp-verse #page33}
 
 Outer forms are not what really matter. The Buddha always pointed to the
 heart, the place we need to focus. He emphasized this because we easily
@@ -721,7 +721,7 @@ living is noble being.
 > unperturbed as a clear and quiet pool.
 >
 > *v. 95*
-{:.dhp-verse}
+{:.dhp-verse #page34}
 
 The Buddha lived in this world as we do. And despite all the turmoil he
 realised a state of imperturbability - to ‘become patient as the earth’.
@@ -740,7 +740,7 @@ it is, until we have learned what we need to learn.
 > the wise decide the case.
 >
 > *v. 256*
-{:.dhp-verse}
+{:.dhp-verse #page35}
 
 You are under pressure to make a decision. Is it possible to remain cool
 and calm when others want you to decide in their favour? Can you remain
@@ -763,7 +763,7 @@ listening.
 > the joyful consequences cannot be avoided.
 >
 > *v. 120*
-{:.dhp-verse}
+{:.dhp-verse #page36}
 
 Trusting in true principles is not always easy. Pursuing popular opinion
 is not always wise. Not being dissuaded by doubts or mere speculation,
@@ -782,7 +782,7 @@ inwardly great and inherently free of all suffering.
 > leaving behind their former resting places.
 >
 > *v. 91*
-{:.dhp-verse}
+{:.dhp-verse #page37}
 
 It is time to move on. We might know this on one level yet another part
 of us holds back. If we attempt to let go because we think we should –
@@ -801,7 +801,7 @@ everything into understanding. Swans glide on – no resistance.
 > and deceit with integrity.
 >
 > *v. 223*
-{:.dhp-verse}
+{:.dhp-verse #page38}
 
 If we are cold, we find a way to get warm – we don’t subject ourselves
 to more cold. If we are hungry we eat – we don’t further deprive
@@ -821,7 +821,7 @@ is the way of transformation.
 > and free from all enmity and fear.
 >
 > *v. 258*
-{:.dhp-verse}
+{:.dhp-verse #page39}
 
 Struggling to become peaceful and wise often stirs things up while
 carefully allowing the activity of heart and mind to cease naturally
@@ -841,7 +841,7 @@ pointing to a more spacious and wise way of living.
 > deep, clear and still.
 >
 > *v. 82*
-{:.dhp-verse}
+{:.dhp-verse #page40}
 
 We might think, ‘If the Buddha were here today to teach me, I too could
 get enlightened.’ However when the Buddha was around there were many who
@@ -863,7 +863,7 @@ receptive to life.
 > like the moon freed from clouds.
 >
 > *v. 173*
-{:.dhp-verse}
+{:.dhp-verse #page41}
 
 The darkness of the world comes from habits of avoidance and indulgence.
 Wholesome acts uncover the light that is already here. Paying attention
@@ -882,7 +882,7 @@ suffering. With right attention everything leads to increased light.
 > is joy to be found by a disciple of the Buddha.
 >
 > *v. 186-187*
-{:.dhp-verse}
+{:.dhp-verse #page42}
 
 Is what I am doing with my life giving me what I am looking for? We do
 succeed from time to time in gratifying our wishes but lasting happiness
@@ -902,7 +902,7 @@ Buddha.
 > cannot enter a well-trained heart.
 >
 > *v. 14*
-{:.dhp-verse}
+{:.dhp-verse #page43}
 
 We act to protect ourselves from the elements of wind and rain. With
 wise reflection we act to protect ourselves from the wild passions. This
@@ -920,7 +920,7 @@ seek the middle way.
 > give no cause for rebuke.
 >
 > *v. 143*
-{:.dhp-verse}
+{:.dhp-verse #page44}
 
 Is it possible to have too much modesty? It is possible to have the
 wrong kind of modesty; when, for example, refraining from blatant greed
@@ -942,7 +942,7 @@ or mere preference, but as someone who cares.
 > through the world.
 >
 > *v. 49*
-{:.dhp-verse}
+{:.dhp-verse #page45}
 
 The world is our village. Can we move through our world without
 disturbing that which is beautiful about it? Sages and renunciates might
@@ -964,7 +964,7 @@ it.
 > have become established in the truth.
 >
 > *v. 217*
-{:.dhp-verse}
+{:.dhp-verse #page46}
 
 When actions of body and speech are an expression of inner ease, we find
 the realm of relationships more rewarding. It’s not by merely following
@@ -986,7 +986,7 @@ also see how we don’t have to cling; we find the way out.
 > the benefits of walking the Way.
 >
 > *v. 20*
-{:.dhp-verse}
+{:.dhp-verse #page47}
 
 It doesn’t matter that we don’t know all there is to know about Dhamma.
 It is how we apply the teachings that counts. Are we living
@@ -1008,7 +1008,7 @@ benefit of walking the Way.
 > and tedious suffering follows.
 >
 > *v. 341*
-{:.dhp-verse}
+{:.dhp-verse #page48}
 
 With the right quality of mindfulness at the right moment, we can see
 why and how attaching to joy and sorrow perpetuates suffering. We become
@@ -1029,7 +1029,7 @@ grasping at the pleasure spoils the beauty, an ease of being emerges.
 > none of them can free us from fear.
 >
 > *v. 188-189*
-{:.dhp-verse}
+{:.dhp-verse #page49}
 
 It is hard to feel afraid without thinking something is going wrong. We
 readily react by judging ourselves and others, in an attempt to escape
@@ -1053,7 +1053,7 @@ meet ourselves where we find ourselves is the way.
 > know good fortune indeed.
 >
 > *v. 193*
-{:.dhp-verse}
+{:.dhp-verse #page50}
 
 Associating with wise beings is certainly a blessing but it is not
 always easy. Their openness can contrast painfully with our
@@ -1074,7 +1074,7 @@ it is heart nourishment; it aligns us with the wise.
 > In what way could he be distracted from truth?
 >
 > *v. 179*
-{:.dhp-verse}
+{:.dhp-verse #page51}
 
 There is a real reality that can be known; the Buddha knew it. It is
 possible to awaken beyond all the feelings of limitation that lead to
@@ -1098,7 +1098,7 @@ rightly set they capture the wind which powers the vessel onwards.
 > with the unmade.
 >
 > *v. 153-154*
-{:.dhp-verse}
+{:.dhp-verse #page52}
 
 The Buddha’s final and complete realisation was to discover that he had
 been believing in something that was not true. He had been deceived by
@@ -1111,5 +1111,6 @@ profound insight, the process was understood; the mainstay of the house,
 the ridge-pole, was broken and suffering had ended. Wandering around
 hoping for a solution to his struggles was over. From here on, he would
 abide at ease in the state prior to all arising and ceasing; the unmade,
-{:.dhp-reflection}
 the undying reality.
+{:.dhp-reflection}
+

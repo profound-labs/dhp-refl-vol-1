@@ -5,10 +5,29 @@
 module Prophecy
   class CLI < Thor
 
-    desc "markdown_verseindex", "Generate verse index from versepages.md"
+    desc "markdown_verseindex", "Add page IDs to versepages.md and generate verse index for TOC"
     def markdown_verseindex
 
-      puts "hey"
+      versepath = File.join('manuscript', 'markdown', 'versepages.md')
+
+      text = IO.read(versepath)
+
+      # Add page IDs
+      if text.include?('{:.dhp-verse}')
+        text.gsub!('{:.dhp-verse}', '{:.dhp-verse #pageN}')
+        n = 1
+        while text =~ /#pageN/
+          text.sub!('#pageN', "#page#{n}")
+          n += 1
+        end
+
+        # Backup versepages.md
+        FileUtils.cp(versepath, "#{versepath}.bak")
+
+        File.open(versepath, "w"){|f| f << text }
+      end
+
+      # TODO
 
     end
 
