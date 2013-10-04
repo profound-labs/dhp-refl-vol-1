@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:000-0-000000-00-0" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+
+    <!-- totalPageCount and maxPageNumber are mandatory, but they're not used in ebooks -->
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dhammapada Reflections</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='nav1' playOrder='1'>
+<navLabel><text>Cover</text></navLabel>
+<content src='chapters/cover.xhtml'/></navPoint>
+<navPoint id='nav2' playOrder='2'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='chapters/titlepage.xhtml'/></navPoint>
+<navPoint id='nav3' playOrder='3'>
+<navLabel><text>Contents</text></navLabel>
+<content src='chapters/toc.xhtml'/></navPoint>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Preface</text></navLabel>
+<content src='chapters/preface.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
+<navLabel><text>Introduction</text></navLabel>
+<content src='chapters/introduction.xhtml'/></navPoint>
+<navPoint id='nav7' playOrder='7'>
+<navLabel><text>Dhammapada Reflections</text></navLabel>
+<content src='chapters/versepages.xhtml'/></navPoint>
+<navPoint id='nav8' playOrder='8'>
+<navLabel><text></text></navLabel>
+<content src='chapters/gift-of-dhamma.xhtml'/></navPoint>
+
+  </navMap>
+</ncx>
