@@ -60,9 +60,9 @@
 
   <manifest>
     
-    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    <item href="stylesheets/style-mobi.css" id="stylesheets-style-mobi-css" media-type="text/css" />
     
-    <item href="stylesheets/style-epub.css" id="stylesheets-style-epub-css" media-type="text/css" />
+    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
     
     <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
     
@@ -79,8 +79,6 @@
     <item href="chapters/introduction.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
     
     <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
     
     <item href="chapters/preface.xhtml" id="chapter_preface" media-type="application/xhtml+xml" />
     
@@ -122,17 +120,15 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref='chapter_cover'  />
-    
-    <itemref idref='chapter_title-page'  />
-    
-    <itemref idref='chapter_contents'  />
-    
     <itemref idref='chapter_copyright'  />
     
     <itemref idref='chapter_preface'  />
     
     <itemref idref='chapter_introduction'  />
+    
+    <itemref idref='chapter_title-page'  />
+    
+    <itemref idref='chapter_contents'  />
     
     <itemref idref='chapter_dhammapada-reflections'  />
     
@@ -151,17 +147,15 @@
        -->
   <guide>
     
-    <reference href='chapters/cover.xhtml' title="Cover" type='cover' />
-    
-    <reference href='chapters/titlepage.xhtml' title="Title Page" type='title-page' />
-    
-    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
-    
     <reference href='chapters/copyright.xhtml' title="Copyright" type='copyright-page' />
     
     <reference href='chapters/preface.xhtml' title="Preface" type='preface' />
     
     
+    
+    <reference href='chapters/titlepage.xhtml' title="Title Page" type='text' />
+    
+    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
     
     
     

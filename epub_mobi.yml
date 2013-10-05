@@ -1,6 +1,6 @@
 
 date: 2013-10-02
-version: 'v1.0'
+version: 'v2.0'
 
 # Epub and Mobi
 # =============
@@ -8,7 +8,7 @@ version: 'v1.0'
 bookid: "DhammapadaReflectionsVolOneENG"
 
 # ISBN for the ebook editions
-isbn: "000-0-000000-00-0"
+isbn: "978-0-9568848-3-1"
 
 # Level 1, 2, 3
 section_names: [ "", "", "" ]
@@ -38,8 +38,8 @@ book_atag: "<a href='http://fsbooks.org/' target='_blank'>www.fsbooks.org</a>"
 # BISAC Subject Headings List:
 # http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
 
-#subject: LIST / OF / SUBJECTS
-#source: http://www.source.org/
+subject: RELIGION / Buddhism / Theravada
+source: http://www.fsbooks.org/
 
 # MARC Code List for Relators:
 # Editor [edt], Cover designer [cov], Translator [trl],

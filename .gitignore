@@ -1,6 +1,7 @@
 publish/epub/
 publish/mobi/
 publish/pdf/
+publish/proofing/
 *.swp
 *.aux
 *.log

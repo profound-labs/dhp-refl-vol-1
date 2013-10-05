@@ -14,182 +14,179 @@
   </docTitle>
   <navMap>
     <navPoint id='nav1' playOrder='1'>
-<navLabel><text>Cover</text></navLabel>
-<content src='chapters/cover.xhtml'/></navPoint>
-<navPoint id='nav2' playOrder='2'>
-<navLabel><text>Title Page</text></navLabel>
-<content src='chapters/titlepage.xhtml'/></navPoint>
-<navPoint id='nav3' playOrder='3'>
-<navLabel><text>Contents</text></navLabel>
-<content src='chapters/toc.xhtml'/></navPoint>
-<navPoint id='nav4' playOrder='4'>
 <navLabel><text>Copyright</text></navLabel>
 <content src='chapters/copyright.xhtml'/></navPoint>
-<navPoint id='nav5' playOrder='5'>
+<navPoint id='nav2' playOrder='2'>
 <navLabel><text>Preface</text></navLabel>
 <content src='chapters/preface.xhtml'/></navPoint>
-<navPoint id='nav6' playOrder='6'>
+<navPoint id='nav3' playOrder='3'>
 <navLabel><text>Introduction</text></navLabel>
 <content src='chapters/introduction.xhtml'/></navPoint>
-<navPoint id='nav7' playOrder='7'>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='chapters/titlepage.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Contents</text></navLabel>
+<content src='chapters/toc.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
 <navLabel><text>Dhammapada Reflections</text></navLabel>
 <content src='chapters/versepages.xhtml'/></navPoint>
-<navPoint id='nav8' playOrder='8'>
+<navPoint id='nav7' playOrder='7'>
 <navLabel><text>Index of Verses</text></navLabel>
-<content src='chapters/versepages.xhtml#dhammapada-reflections' /><navPoint id='nav9' playOrder='9'>
+<content src='chapters/versepages.xhtml#dhammapada-reflections' /><navPoint id='nav8' playOrder='8'>
 <navLabel><text>v. 87-88 - With an image of liberation as the goal</text></navLabel>
 <content src='chapters/versepages.xhtml#page1'/></navPoint>
-<navPoint id='nav10' playOrder='10'>
+<navPoint id='nav9' playOrder='9'>
 <navLabel><text>v. 169 - Live your life well in accord with the Way </text></navLabel>
 <content src='chapters/versepages.xhtml#page2'/></navPoint>
-<navPoint id='nav11' playOrder='11'>
+<navPoint id='nav10' playOrder='10'>
 <navLabel><text>v. 58-59 - Just as a sweet scented and beautiful lotus</text></navLabel>
 <content src='chapters/versepages.xhtml#page3'/></navPoint>
-<navPoint id='nav12' playOrder='12'>
+<navPoint id='nav11' playOrder='11'>
 <navLabel><text>v. 290 - It is wisdom</text></navLabel>
 <content src='chapters/versepages.xhtml#page4'/></navPoint>
-<navPoint id='nav13' playOrder='13'>
+<navPoint id='nav12' playOrder='12'>
 <navLabel><text>v. 227-228 - Since ancient times it has been the case</text></navLabel>
 <content src='chapters/versepages.xhtml#page5'/></navPoint>
-<navPoint id='nav14' playOrder='14'>
+<navPoint id='nav13' playOrder='13'>
 <navLabel><text>v. 328 - If you find a good companion,</text></navLabel>
 <content src='chapters/versepages.xhtml#page6'/></navPoint>
-<navPoint id='nav15' playOrder='15'>
+<navPoint id='nav14' playOrder='14'>
 <navLabel><text>v. 8 - As a stormy wind cannot move</text></navLabel>
 <content src='chapters/versepages.xhtml#page7'/></navPoint>
-<navPoint id='nav16' playOrder='16'>
+<navPoint id='nav15' playOrder='15'>
 <navLabel><text>v. 104-105 - Self-mastery is the supreme victory </text></navLabel>
 <content src='chapters/versepages.xhtml#page8'/></navPoint>
-<navPoint id='nav17' playOrder='17'>
+<navPoint id='nav16' playOrder='16'>
 <navLabel><text>v. 268-269 - Silence does not denote profundity</text></navLabel>
 <content src='chapters/versepages.xhtml#page9'/></navPoint>
-<navPoint id='nav18' playOrder='18'>
+<navPoint id='nav17' playOrder='17'>
 <navLabel><text>v. 172 - There are those who awaken from heedlessness.</text></navLabel>
 <content src='chapters/versepages.xhtml#page10'/></navPoint>
-<navPoint id='nav19' playOrder='19'>
+<navPoint id='nav18' playOrder='18'>
 <navLabel><text>v. 78 - Do not seek the company of misguided friends;</text></navLabel>
 <content src='chapters/versepages.xhtml#page11'/></navPoint>
-<navPoint id='nav20' playOrder='20'>
+<navPoint id='nav19' playOrder='19'>
 <navLabel><text>v. 145 - Those who build canals</text></navLabel>
 <content src='chapters/versepages.xhtml#page12'/></navPoint>
-<navPoint id='nav21' playOrder='21'>
+<navPoint id='nav20' playOrder='20'>
 <navLabel><text>v. 146 - Why is there laughter?</text></navLabel>
 <content src='chapters/versepages.xhtml#page13'/></navPoint>
-<navPoint id='nav22' playOrder='22'>
+<navPoint id='nav21' playOrder='21'>
 <navLabel><text>v. 239 - Gradually, gradually,</text></navLabel>
 <content src='chapters/versepages.xhtml#page14'/></navPoint>
-<navPoint id='nav23' playOrder='23'>
+<navPoint id='nav22' playOrder='22'>
 <navLabel><text>v. 178 - Better than ruling the whole world,</text></navLabel>
 <content src='chapters/versepages.xhtml#page15'/></navPoint>
-<navPoint id='nav24' playOrder='24'>
+<navPoint id='nav23' playOrder='23'>
 <navLabel><text>v. 76 - Only blessings can arise</text></navLabel>
 <content src='chapters/versepages.xhtml#page16'/></navPoint>
-<navPoint id='nav25' playOrder='25'>
+<navPoint id='nav24' playOrder='24'>
 <navLabel><text>v. 1 - All states of being are determined by mind.</text></navLabel>
 <content src='chapters/versepages.xhtml#page17'/></navPoint>
-<navPoint id='nav26' playOrder='26'>
+<navPoint id='nav25' playOrder='25'>
 <navLabel><text>v. 118 - Having performed a wholesome act</text></navLabel>
 <content src='chapters/versepages.xhtml#page18'/></navPoint>
-<navPoint id='nav27' playOrder='27'>
+<navPoint id='nav26' playOrder='26'>
 <navLabel><text>v. 348 - Let go of that which is in front,</text></navLabel>
 <content src='chapters/versepages.xhtml#page19'/></navPoint>
-<navPoint id='nav28' playOrder='28'>
+<navPoint id='nav27' playOrder='27'>
 <navLabel><text>v. 387 - The sun shines by day,</text></navLabel>
 <content src='chapters/versepages.xhtml#page20'/></navPoint>
-<navPoint id='nav29' playOrder='29'>
+<navPoint id='nav28' playOrder='28'>
 <navLabel><text>v. 122 - Do not ignore the effect of right action</text></navLabel>
 <content src='chapters/versepages.xhtml#page21'/></navPoint>
-<navPoint id='nav30' playOrder='30'>
+<navPoint id='nav29' playOrder='29'>
 <navLabel><text>v. 134 - If spoken to harshly,</text></navLabel>
 <content src='chapters/versepages.xhtml#page22'/></navPoint>
-<navPoint id='nav31' playOrder='31'>
+<navPoint id='nav30' playOrder='30'>
 <navLabel><text>v. 130 - Having empathy for others</text></navLabel>
 <content src='chapters/versepages.xhtml#page23'/></navPoint>
-<navPoint id='nav32' playOrder='32'>
+<navPoint id='nav31' playOrder='31'>
 <navLabel><text>v. 262-263 - Those who are envious, stingy and manipulative,</text></navLabel>
 <content src='chapters/versepages.xhtml#page24'/></navPoint>
-<navPoint id='nav33' playOrder='33'>
+<navPoint id='nav32' playOrder='32'>
 <navLabel><text>v. 162 - Committed evil doers behave toward themselves</text></navLabel>
 <content src='chapters/versepages.xhtml#page25'/></navPoint>
-<navPoint id='nav34' playOrder='34'>
+<navPoint id='nav33' playOrder='33'>
 <navLabel><text>v. 184 - A renunciate does not oppress anyone.</text></navLabel>
 <content src='chapters/versepages.xhtml#page26'/></navPoint>
-<navPoint id='nav35' playOrder='35'>
+<navPoint id='nav34' playOrder='34'>
 <navLabel><text>v. 6 - Those who are contentious</text></navLabel>
 <content src='chapters/versepages.xhtml#page27'/></navPoint>
-<navPoint id='nav36' playOrder='36'>
+<navPoint id='nav35' playOrder='35'>
 <navLabel><text>v. 2 - All states of being are determined by mind.</text></navLabel>
 <content src='chapters/versepages.xhtml#page28'/></navPoint>
-<navPoint id='nav37' playOrder='37'>
+<navPoint id='nav36' playOrder='36'>
 <navLabel><text>v. 3-4 - When we hold fast to such thoughts as,</text></navLabel>
 <content src='chapters/versepages.xhtml#page29'/></navPoint>
-<navPoint id='nav38' playOrder='38'>
+<navPoint id='nav37' playOrder='37'>
 <navLabel><text>v. 377 - As old flowers fall</text></navLabel>
 <content src='chapters/versepages.xhtml#page30'/></navPoint>
-<navPoint id='nav39' playOrder='39'>
+<navPoint id='nav38' playOrder='38'>
 <navLabel><text>v. 401 - As water slides from a lotus leaf,</text></navLabel>
 <content src='chapters/versepages.xhtml#page31'/></navPoint>
-<navPoint id='nav40' playOrder='40'>
+<navPoint id='nav39' playOrder='39'>
 <navLabel><text>v. 5 - Never by hatred is hatred conquered,</text></navLabel>
 <content src='chapters/versepages.xhtml#page32'/></navPoint>
-<navPoint id='nav41' playOrder='41'>
+<navPoint id='nav40' playOrder='40'>
 <navLabel><text>v. 142 - Flamboyant outer appearance</text></navLabel>
 <content src='chapters/versepages.xhtml#page33'/></navPoint>
-<navPoint id='nav42' playOrder='42'>
+<navPoint id='nav41' playOrder='41'>
 <navLabel><text>v. 95 - There are those who discover</text></navLabel>
 <content src='chapters/versepages.xhtml#page34'/></navPoint>
-<navPoint id='nav43' playOrder='43'>
+<navPoint id='nav42' playOrder='42'>
 <navLabel><text>v. 256 - Making an arbitrary decision</text></navLabel>
 <content src='chapters/versepages.xhtml#page35'/></navPoint>
-<navPoint id='nav44' playOrder='44'>
+<navPoint id='nav43' playOrder='43'>
 <navLabel><text>v. 120 - Even those who live wholesome lives</text></navLabel>
 <content src='chapters/versepages.xhtml#page36'/></navPoint>
-<navPoint id='nav45' playOrder='45'>
+<navPoint id='nav44' playOrder='44'>
 <navLabel><text>v. 91 - Alert to the needs of the journey,</text></navLabel>
 <content src='chapters/versepages.xhtml#page37'/></navPoint>
-<navPoint id='nav46' playOrder='46'>
+<navPoint id='nav45' playOrder='45'>
 <navLabel><text>v. 223 - Transform anger with kindness</text></navLabel>
 <content src='chapters/versepages.xhtml#page38'/></navPoint>
-<navPoint id='nav47' playOrder='47'>
+<navPoint id='nav46' playOrder='46'>
 <navLabel><text>v. 258 - Those who speak much</text></navLabel>
 <content src='chapters/versepages.xhtml#page39'/></navPoint>
-<navPoint id='nav48' playOrder='48'>
+<navPoint id='nav47' playOrder='47'>
 <navLabel><text>v. 82 - On hearing true teachings,</text></navLabel>
 <content src='chapters/versepages.xhtml#page40'/></navPoint>
-<navPoint id='nav49' playOrder='49'>
+<navPoint id='nav48' playOrder='48'>
 <navLabel><text>v. 173 - One who transforms old and heedless ways</text></navLabel>
 <content src='chapters/versepages.xhtml#page41'/></navPoint>
-<navPoint id='nav50' playOrder='50'>
+<navPoint id='nav49' playOrder='49'>
 <navLabel><text>v. 186-187 - Not in great wealth is there contentment,</text></navLabel>
 <content src='chapters/versepages.xhtml#page42'/></navPoint>
-<navPoint id='nav51' playOrder='51'>
+<navPoint id='nav50' playOrder='50'>
 <navLabel><text>v. 14 - As rain cannot penetrate</text></navLabel>
 <content src='chapters/versepages.xhtml#page43'/></navPoint>
-<navPoint id='nav52' playOrder='52'>
+<navPoint id='nav51' playOrder='51'>
 <navLabel><text>v. 143 - A well-trained horse</text></navLabel>
 <content src='chapters/versepages.xhtml#page44'/></navPoint>
-<navPoint id='nav53' playOrder='53'>
+<navPoint id='nav52' playOrder='52'>
 <navLabel><text>v. 49 - As a bee gathering nectar</text></navLabel>
 <content src='chapters/versepages.xhtml#page45'/></navPoint>
-<navPoint id='nav54' playOrder='54'>
+<navPoint id='nav53' playOrder='53'>
 <navLabel><text>v. 217 - Naturally loved are those</text></navLabel>
 <content src='chapters/versepages.xhtml#page46'/></navPoint>
-<navPoint id='nav55' playOrder='55'>
+<navPoint id='nav54' playOrder='54'>
 <navLabel><text>v. 20 - Knowing only a little about Dhamma</text></navLabel>
 <content src='chapters/versepages.xhtml#page47'/></navPoint>
-<navPoint id='nav56' playOrder='56'>
+<navPoint id='nav55' playOrder='55'>
 <navLabel><text>v. 341 - Beings naturally experience pleasure;</text></navLabel>
 <content src='chapters/versepages.xhtml#page48'/></navPoint>
-<navPoint id='nav57' playOrder='57'>
+<navPoint id='nav56' playOrder='56'>
 <navLabel><text>v. 188-189 - To many places beings withdraw</text></navLabel>
 <content src='chapters/versepages.xhtml#page49'/></navPoint>
-<navPoint id='nav58' playOrder='58'>
+<navPoint id='nav57' playOrder='57'>
 <navLabel><text>v. 193 - It is hard to find</text></navLabel>
 <content src='chapters/versepages.xhtml#page50'/></navPoint>
-<navPoint id='nav59' playOrder='59'>
+<navPoint id='nav58' playOrder='58'>
 <navLabel><text>v. 179 - The Buddha’s perfection is complete;</text></navLabel>
 <content src='chapters/versepages.xhtml#page51'/></navPoint>
-<navPoint id='nav60' playOrder='60'>
+<navPoint id='nav59' playOrder='59'>
 <navLabel><text>v. 153-154 - For many lives I have wandered</text></navLabel>
 <content src='chapters/versepages.xhtml#page52'/></navPoint>
 </navPoint>
