@@ -5,5 +5,6 @@ by Ajahn Munindo
 
 Status: *PROOFING*
 
-Created with [profound-labs/prophecy](https://github.com/profound-labs/prophecy) book boilerplate.
+Install [prophecy](https://github.com/profound-labs/prophecy) to compile
+the source files.
 
