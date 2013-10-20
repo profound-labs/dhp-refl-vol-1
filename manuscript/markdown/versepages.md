@@ -21,14 +21,14 @@ us. If we hold too tightly to the images, we may lose perspective on the
 here and now element of the journey; instead of actually doing the
 practice, we are imagining it. If we fail to give right emphasis to the
 goal, we may become lost in the distraction of sense objects – agreeable
-and disagreeable. The pursuit of true freedom is difficult but consider
+and disagreeable. The pursuit of true freedom is difficult, but consider
 how much suffering comes if we don’t practice. With wise reflection we
 find we can endure the dark and difficult times. When the light returns,
 we cherish it and discover how to love truth more fully.
 {:.dhp-reflection}
 
 
-> Live your life well in accord with the Way –\\
+> Live your life well in accordance with the Way –\\
 > avoid a life of distraction.\\
 > A life well-lived leads to contentment,\\
 > both now and in the future.
@@ -37,19 +37,19 @@ we cherish it and discover how to love truth more fully.
 {:.dhp-verse #page2}
 
 With a heart of contentment as our foundation, we can tackle the tasks
-that confront us. There are times we need to be brave warriors battling
-with the forces of delusion to avoid their taking control of our hearts
-and minds. At other times we need to be like a parent, nurturing and
-caring for the goodness that is already here. Agility is a great
-spiritual virtue. Recognising the beauty inherent in a contented heart,
-we will naturally be drawn towards it. We only seek distraction because
-we don’t know contentment. Right practice liberates energy previously
-consumed by compulsiveness. This same energy can also manifest as
-vitality and enthusiasm.
+that confront us. There are times when we need to be brave warriors
+battling with the forces of delusion to avoid their taking control of
+our hearts and minds. At other times we need to be like a parent,
+nurturing and caring for the goodness that is already here. Agility is a
+great spiritual virtue. Recognising the beauty inherent in a contented
+heart, we will naturally be drawn towards it. We only seek distraction
+because we don’t know contentment. Right practice liberates energy
+previously consumed by compulsiveness. This same energy can also
+manifest as vitality and enthusiasm.
 {:.dhp-reflection}
 
 
-> Just as a sweet scented and beautiful lotus\\
+> Just as a sweet-scented and beautiful lotus\\
 > can grow from a pile of discarded waste,\\
 > the radiance of a true disciple of the Buddha\\
 > outshines dark shadows cast by ignorance.
@@ -78,13 +78,13 @@ beautiful lotuses take root and grow in the unbeautiful.
 {:.dhp-verse #page4}
 
 The filters of our preferences tragically limit our seeing. We want to
-let go of that which binds us but often our will fails us. Wise
+let go of that which binds us, but often our will fails us. Wise
 reflection can support will – it is will’s best friend. Will is not
 meant to do it alone. The verse encourages us to reflect on how letting
 go of our attachment to a lesser happiness can lead to gaining a greater
 happiness. Lost in our attachments, we see only that which we stand to
-lose by letting go. Wise thinking means we see what we stand to lose as
-well as what we stand to gain. Wise reflection opens and broadens our
+lose by letting go. Wise thinking means we see what we stand to gain as
+well as what we stand to lose. Wise reflection opens and broadens our
 vision and enables pursuit of the goal.
 {:.dhp-reflection}
 
@@ -111,12 +111,12 @@ from anybody hurts us, then we need to look deeper. Reflect that in
 blaming, people are sending out the pain that they don’t have the
 ability to contain; they express their hurt outwardly by finding fault
 with others. When we have the mindfulness and capacity to receive
-ourselves fully we are not inclined to blame anyone, neither ourselves
+ourselves fully, we are not inclined to blame anyone, neither ourselves
 nor others.
 {:.dhp-reflection}
 
 
-> If you find a good companion,\\
+> If you find a good companion\\
 > of integrity and wisdom,\\
 > you will overcome all dangers\\
 > in joyous and caring company.
@@ -129,8 +129,8 @@ contained. The Teacher is encouraging us to be mindful of the company we
 keep. The Discourse on Great Blessings says, “Avoid the company of the
 foolish and associate yourself with the wise”. As we apply skilful
 discrimination, we need to exercise care that we don’t confuse prejudice
-with wise discernment. Wise discernment is compassionate and kind and is
-interested in protecting all beings from harm.
+with wise discernment. Wise discernment is compassionate and kind, and
+is interested in protecting all beings from harm.
 {:.dhp-reflection}
 
 
@@ -143,17 +143,17 @@ interested in protecting all beings from harm.
 > *v. 8*
 {:.dhp-verse #page7}
 
-Māra is the manifestation of unenlightenment; the driving force of
+Māra is the manifestation of unenlightenment, the driving force of
 denial. Māra is the avoidance of reality and is expressed as
 compulsiveness, insensitivity, resentment. Our monastery in rural
-Northumberland is sometimes buffeted by winds that can be frightening
-but they are nothing compared to the threat posed by the forces of Māra.
+Northumberland is sometimes buffeted by winds that can be frightening,
+but they are nothing compared to the threat posed by the forces of Māra.
 If we are to withstand the onslaught of our heedless habits, we must
 firmly establish our contemplation in an awareness of the body, in faith
 and in energy. It is the ability and willingness to come back, over and
 over again, to our body-based practice, remembering to live in ways that
-lead to selfless confidence that sustains our interest in discovering
-truth. This has the power to make us unshakable.
+lead to selfless confidence, that sustains our interest in discovering
+truth. This has the power to make us unshakeable.
 {:.dhp-reflection}
 
 
@@ -166,7 +166,7 @@ truth. This has the power to make us unshakable.
 > *v. 104-105*
 {:.dhp-verse #page8}
 
-Unshakably established in the centre of our lives, nothing can unsettle
+Unshakeably established in the centre of our lives, nothing can unsettle
 us or generate causes for suffering. This is fearlessness. The Buddha’s
 teachings point to that which blocks fearlessness: habitual
 self-seeking, deluded desire. Shining the light of awareness on this
@@ -189,12 +189,12 @@ the victory of selflessness.
 
 The Buddha spoke of the contentment and benefit that can come from
 living in quiet and beautiful places. Limiting sense stimuli can assist
-us on our path to freedom from ignorance. However he didn’t mean for us
+us on our path to freedom from ignorance. However, he didn’t mean for us
 to then take a position against the sensory world. Ajahn Chah often
-said: “If you can’t practice in the city, you can’t practice in the
-forest”. And he’d also say: “If you can’t practice when you are sick,
-you can’t practice when you are healthy”. In other words, everything is
-practice; including the feeling that we can’t practice with ‘this’. It
+said: “If you can’t practise in the city, you can’t practise in the
+forest.” And he’d also say: “If you can’t practise when you are sick,
+you can’t practise when you are healthy.” In other words, everything is
+practice; including the feeling that we can’t practise with ‘this’. It
 is wisdom that recognises this truth.
 {:.dhp-reflection}
 
@@ -212,8 +212,8 @@ hundred years ago, the Buddha first revealed the Four Noble Truths. The
 hearts of those who heard these teachings were filled with the joy of
 perfect understanding, as cool and brilliant as a moon emerging from a
 covering of clouds. We assume the world and our suffering to be more
-substantial than it really is. But if we turn our attention towards the
-true causes of suffering – desire rooted in ignorance - these Four
+substantial than they really are. But if we turn our attention towards
+the true causes of suffering – desire rooted in ignorance - these Four
 Ennobling Truths generate a radiance that disperses the clouds of
 delusion and dissolves the world of suffering. Our contemplations awaken
 us from heedlessness, moment by moment we contribute to the continued
@@ -234,7 +234,7 @@ to protect and nurture true friendship with those who support our
 aspiration to live in truth. We genuinely appreciate such companions; we
 don’t wait until we get into difficulties before letting them know what
 they mean to us. Good friendship can be cultivated. As we bring
-mindfulness to our relationships with others let’s also consider how
+mindfulness to our relationships with others, let’s also consider how
 friendly we are being with ourselves.
 {:.dhp-reflection}
 
@@ -251,7 +251,7 @@ friendly we are being with ourselves.
 
 Crafts-people work their crafts. The endeavour of taming the heart’s
 unruly nature – there’s an art in that. Outwardly we may find ourselves
-in confusing circumstances but inwardly we remember that cultivating
+in confusing circumstances, but inwardly we remember that cultivating
 skilfulness is our primary task. With careful, constant observation we
 learn to recognise the heart’s unruliness. ‘If only the weather was
 warmer!’ ‘If only the weather was cooler!’ We don’t reactively judge
@@ -277,7 +277,7 @@ It can come as a relief to find that in our efforts to be free from
 darkness we are accompanied by many millions of other human beings.
 Suffering is the nature of unawakened humanity. “Don’t feel bad if you
 are suffering. Everyone suffers,” Ajahn Chah would tell us. Before his
-enlightenment the Buddha-to-be suffered too. The difference is
+enlightenment the Buddha-to-be suffered too. The difference is that
 enlightened beings know that suffering is not an obligation – it is only
 one of the options available in the human realm. There is also the
 possibility of dwelling in the light of non-suffering.
@@ -293,13 +293,13 @@ possibility of dwelling in the light of non-suffering.
 {:.dhp-verse #page14}
 
 No amount of wishing things were otherwise gives us what we long for. We
-want the pure gold of pristine awareness so we need to enter the fires
+want the pure gold of pristine awareness, so we need to enter the fires
 of purification. This verse instructs us on how to watch over the
-burning: too much heat – we are trying too hard – enduring heedlessly we
-get hurt in our practice. Not enough heat – shying away from
-difficulties – following preferences for comfort and ease there is no
+burning. Too much heat: we are trying too hard; enduring heedlessly, we
+get hurt in our practice. Not enough heat: shying away from
+difficulties, following preferences for comfort and ease; there is no
 improvement in our practice. We just become more foolish as the years go
-by. Our habits are the dross and with gradual fine-tuning of our effort
+by. Our habits are the dross, and with gradual fine-tuning of our effort
 we learn letting go. The aim of all this work is the realisation of the
 state of luminous awareness. We then have something inherently valuable
 to share with others.
@@ -317,12 +317,12 @@ to share with others.
 Unconditioned freedom: a quality of being not dependent on any condition
 whatsoever. Whatever the circumstances, fortunate or unfortunate, the
 heart remains at ease, radiant, clear-seeing, sensitive and strong. It
-is a commitment that is irreversible, unshakable and real; beyond all of
-deluded ego’s obsessions. To arrive at this level of resolve requires
-constant observation of our old habits, for example: the fondness of
+is a commitment that is irreversible, unshakeable and real: beyond all
+of deluded ego’s obsessions. To arrive at this level of resolve requires
+constant observation of our old habits, for example the fondness of
 being in control of everything, addiction to passing pleasures,
 obsession with power. We work with what we have. Each time we find
-ourselves distracted we refocus our commitment to the Way.
+ourselves distracted, we refocus our commitment to the Way.
 {:.dhp-reflection}
 
 
@@ -340,11 +340,11 @@ to acquire something more; the other is to assume we have what we need –
 but it’s just that we can’t quite locate it. In this verse the Buddha
 gives us an image of hidden treasure waiting to be found. We won’t find
 it outside ourselves; it is to be found in our own hearts. We don’t
-recognise this treasure because we have already too much: too much
+recognise this treasure because we already have too much: too much
 grasping, too much resisting. It is a profound blessing to meet someone
-wise with discernment, ripe with compassion who is willing to guide us
+wise with discernment, ripe with compassion, who is willing to guide us
 to freedom from the habits that obstruct us. They might lead us through
-treacherous swamps of doubt or over threatening mountains of desire but
+treacherous swamps of doubt or over threatening mountains of desire, but
 only blessings can arise if we honour their example and follow the
 journey to the end.
 {:.dhp-reflection}
@@ -363,11 +363,11 @@ journey to the end.
 
 Thinking too much can complicate spiritual practice; not thinking enough
 can restrict us. Here we are given an example of wisely-directed
-thinking. It helps us to see that we are not a victim of circumstance –
+thinking. It helps us to see that we are not a victim of circumstance,
 to understand that the intention behind our actions of body and speech
-determines our state of being – it puts us in the position where we have
+determines our state of being; it puts us in the position where we have
 the power to bring about real change. Accepting this teaching as our
-field of investigation we appreciate the value of exercising mindful
+field of investigation, we appreciate the value of exercising mindful
 restraint and find new confidence and ability. Our heart/mind leads the
 way.
 {:.dhp-reflection}
@@ -382,16 +382,16 @@ way.
 {:.dhp-verse #page18}
 
 The Dhamma encourages us to bring to heart the memory of wholesome acts
-performed by body, speech or mind and to dwell in the sense of gladness
+performed by body, speech or mind, and to dwell in the sense of gladness
 that arises with that recollection. We are not at risk of becoming
 overly pleased with ourselves if mindfulness is present. We can
 similarly contemplate our mistakes and shortcomings without losing sight
 of our goodness if we have developed wise reflection. That we can
-observe our habits shows that we are much more than those habits. What
-is it that observes? This is our refuge - awareness - the way out of
-suffering. With this very awareness we can freely dwell in the joy of
-recollecting goodness. And what a relief to find that we can make
-mistakes and learn from them.
+observe our habits shows we are much more than those habits. What is it
+that observes? This is our refuge – awareness, the way out of suffering.
+With this very awareness we can freely dwell in the joy of recollecting
+goodness. And what a relief to find that we can make mistakes and learn
+from them.
 {:.dhp-reflection}
 
 
@@ -410,7 +410,7 @@ experiences here and now. When we get lost we suffer. But suffering is
 not ultimate; there are causes for suffering and there is freedom from
 them. To arrive at freedom requires that we are willing to leave our
 familiar abidings. We hear the instruction to ‘let go’ and it can sound
-like we are being told to get rid of something or that we are wrong for
+as if we are being told to get rid of something or that we are wrong for
 being the way we are. But if we recognise the power of right
 mindfulness, we see letting go just happens. In this verse the Buddha
 meets us in the place of our suffering and directs us towards an open
@@ -427,10 +427,10 @@ door out of it.
 > *v. 387*
 {:.dhp-verse #page20}
 
-Whenever there is well-established mindfulness, there is beauty, clarity
-and the possibility for deepening understanding. If there is constant
-mindfulness, there is constant clarity. All day and all night the heart
-of mindfulness shines in glorious splendour.
+Whenever there is well-established mindfulness, there are beauty,
+clarity and the possibility for deepening understanding. If there is
+constant mindfulness, there is constant clarity. All day and all night
+the heart of mindfulness shines in glorious splendour.
 {:.dhp-reflection}
 
 
@@ -446,7 +446,7 @@ of mindfulness shines in glorious splendour.
 ‘Bigger is better’. ‘The more the merrier’. Little by little such
 perceptions can be wisely questioned. Trust that every small moment of
 mindfulness matters. Every small effort to remember to come back and
-with judgment-free awareness to begin again makes a difference. No such
+with judgement-free awareness to begin again makes a difference. No such
 effort is ever wasted. One day we discover we are simply unimpressed by
 that which previously held us. Instead of reacting to something that in
 the past would upset us, letting go happens. Wisdom knows the way of
@@ -485,7 +485,7 @@ burning us out with self-criticism.
 
 By being open to others we bring benefit to ourselves. In studying our
 own hearts and minds we generate benefit for others. Dhamma teaches us
-to practice on both levels. On one level we cultivate insight that
+to practise on both levels. On one level we cultivate insight that
 undoes deeply held views about ‘self’ and ‘others’. This is our formal
 practice. Meanwhile our daily-life practice calls us to accept the
 relative validity of views like ‘self’ and ‘others’; to engage them in
@@ -494,7 +494,7 @@ insight and helps keep practice balanced.
 {:.dhp-reflection}
 
 
-> Those who are envious, stingy and manipulative,\\
+> Those who are envious, stingy and manipulative\\
 > remain unappealing despite good looks\\
 > and eloquent speech.\\
 > But those who have freed themselves\\
@@ -513,7 +513,7 @@ place deep within, we see much more than that which our eyes see.
 {:.dhp-reflection}
 
 
-> Committed evil doers behave toward themselves\\
+> Committed evil-doers behave toward themselves\\
 > like their own worst enemies.\\
 > They are like creepers that strangle the trees\\
 > which support them.
@@ -521,16 +521,16 @@ place deep within, we see much more than that which our eyes see.
 > *v. 162*
 {:.dhp-verse #page25}
 
-This verse refers to a monk who tried three times to kill the Buddha and
-eventually his evil actions contributed to his own death. When we betray
-our heart’s commitment to reality, slowly but surely, we die away from
-the light of truth and sink into darkness. Creepers climb handsome,
+This verse refers to a monk who tried three times to kill the Buddha,
+and eventually his evil actions contributed to his own death. When we
+betray our heart’s commitment to reality, slowly but surely we die away
+from the light of truth and sink into darkness. Creepers climb handsome
 mature trees and sometimes strangle them to death. We can go for refuge
-to the Buddha yet still be taken over by up-thrusts of rage. Hours, days
-or even years go by as we justify our hurtful actions of body or speech.
-When we come to see the truth of our actions a wholesome sense of
-remorse arises; we genuinely wish to desist. Right action is the natural
-consequence.
+to the Buddha, yet still be taken over by up-thrusts of rage. Hours,
+days or even years go by as we justify our hurtful actions of body or
+speech. When we come to see the truth of our actions a wholesome sense
+of remorse arises; we genuinely wish to desist. Right action is the
+natural consequence.
 {:.dhp-reflection}
 
 
@@ -543,17 +543,17 @@ consequence.
 {:.dhp-verse #page26}
 
 As we progress on our path towards the goal, the Buddha is encouraging
-us not to forget how we relate with others. The cultivation of metta
+us not to forget how we relate to others. The cultivation of *mettā*
 teaches us to include all beings in our heart of kindness. It sometimes
 happens that we feel able to be kind towards others but not towards
 ourselves. If we find this a struggle, we show infinite kindness towards
 the struggler, ourselves. Layers of self-judging, self-loathing,
 self-rejecting require us to exercise patient endurance; not to be
-mistaken with bitter endurance. Patience is an essential characteristic
+mistaken for bitter endurance. Patience is an essential characteristic
 for those travelling on the path. And there is absolutely no way this
 essential virtue can be cultivated when we are having a good time. So
-when we are having a bad time, reflect that this is the perfect place,
-the only place, to develop this profound quality.
+when we are having a bad time, we can reflect that this is the perfect
+place, the only place, to develop this profound quality.
 {:.dhp-reflection}
 
 
@@ -565,14 +565,14 @@ the only place, to develop this profound quality.
 > *v. 6*
 {:.dhp-verse #page27}
 
-It is OK to think about death and to talk about the fact that we all
-will die. Indeed it is wise to do so. If we deny the awareness of our
+It is OK to think about death and to talk about the fact that we will
+all die. Indeed, it is wise to do so. If we deny the awareness of our
 mortality, the fear of it remains hidden underground. With this
 avoidance of reality comes diminishing aliveness and increased
 confusion. Cultivating mindfulness around the subject of death
-(*maranasati*) we discover that to the degree we admit reality there is
-a corresponding increase in clarity and contentment. This is the
-contentment that leads to meaningful peace.
+(*maraṇasati*) we discover that to the degree that we admit reality
+there is a corresponding increase in clarity and contentment. This is
+the contentment that leads to meaningful peace.
 {:.dhp-reflection}
 
 
@@ -587,7 +587,7 @@ contentment that leads to meaningful peace.
 
 Have you ever tried to run away from your shadow? As hard as you might
 try it never leaves you. Any action by body, speech or mind that is done
-with pure motivation, will indeed lead to increased well-being. This is
+with pure motivation will indeed lead to increased well-being. This is
 worth remembering if we intend to do something good and are about to
 change our minds, thinking it’s not worth the effort. However small and
 apparently insignificant the act might be, happiness will follow. It is
@@ -612,7 +612,7 @@ hatred is vanquished.
 
 In various ways we all suffer injustice in our lives. Sometimes the pain
 runs deep and can last for years. Dhamma teachings emphasise not so much
-the pain but our relationship to it. As long as we are possessed by
+the pain as our relationship to it. As long as we are possessed by
 hatred and resistance, intelligence is compromised. Although action
 might be called for, if our heart is not free from hatred, we can’t know
 what right action would be. The Buddha advocates releasing ourselves
@@ -622,7 +622,7 @@ We are letting go because we understand the consequences of hanging on.
 
 
 > As old flowers fall\\
-> from a jasmine plant\\
+> from a jasmine plant,\\
 > let lust and hatred\\
 > fall away.
 >
@@ -634,11 +634,11 @@ were troubled by the noise that was coming from the pub across the road.
 Ajahn Chah told them that the cause of suffering was their sending
 attention out to trouble the sound. Sound itself is just so. Suffering
 only arises when we ‘go out’ and add something extra. Seeing our part in
-creating problems, a shift in the way we view struggles takes place.
-Instead of blaming we simply ‘see’ what we are doing, in the moment.
-Let’s not get into a fight with hatred; exercising careful restraint and
-wise reflection, we let it ‘fall away’. Initially we see this only after
-we have reacted and created suffering. With practice we catch it sooner.
+creating problems, a shift in the way we view them takes place. Instead
+of blaming, we simply ‘see’ what we are doing, in the moment. Let’s not
+get into a fight with hatred; exercising careful restraint and wise
+reflection, we let it ‘fall away’. Initially we see this only after we
+have reacted and created suffering. With practice we catch it sooner.
 One day, we will catch ourselves just as we are about to create the
 problem.
 {:.dhp-reflection}
@@ -657,12 +657,12 @@ their relationship with life. We are not so great because we get caught
 in feelings and make a problem out of life. We create obstructions by
 the way that we deal with the eight worldly dhammas: praise and blame,
 gain and loss, pleasure and suffering, popularity and insignificance.
-Out of delusion we relate to these worldly winds heedlessly - indulging
+Out of delusion we relate to these worldly winds heedlessly, indulging
 in what we like and resisting what we don’t. Wisdom on the other hand
 simply sees the reality of the sensory world. It knows the space within
-which all experiences arise and cease. Such knowing means a great being
-doesn’t even have to try to let go; all inclination to cling
-automatically falls away. He or she experiences sensual pleasure but
+which all experiences arise and cease. Such knowing means that a great
+being doesn’t even have to try to let go; all inclination to cling
+automatically falls away. He or she experiences sensual pleasure, but
 adds nothing to it and takes nothing away.
 {:.dhp-reflection}
 
@@ -676,13 +676,13 @@ adds nothing to it and takes nothing away.
 
 To conquer hatred ‘by love alone’ can seem a lofty ideal. We might judge
 ourselves (and in so doing tend to excuse ourselves) as being too
-limited – or just dismiss the notion as not realistic. Surely part of us
-does say, ‘yes’. Another part of us might say, ‘Yes, but what if…’ For
-the Buddha there are no qualifications; hatred simply never works. What
-is this word ‘love’? Generating an unqualified receptivity? And the
+limited – or just dismiss the notion as not realistic. Surely part of us
+does say, ‘yes’. Another part of us might say, ‘Yes, but what if…’ For
+the Buddha there are no qualifications; hatred simply never works. What
+is this word ‘love’? Generating an unqualified receptivity? And the
 perceptions we have of those who might trigger hatred within us; where
 do those perceptions exist? Potentially loving-kindness is capable of
-receiving all of this into awareness, fully, wholly, even warmly. This
+receiving all of this into awareness, fully, wholly, even warmly. This
 is eternal law.
 {:.dhp-reflection}
 
@@ -691,16 +691,16 @@ is eternal law.
 > does not in itself constitute\\
 > an obstruction to freedom.\\
 > Having a heart at peace, pure, contained,\\
-> awake and blameless,\\
+> awake and blameless\\
 > distinguishes a noble being.
 >
 > *v. 142*
 {:.dhp-verse #page33}
 
 Outer forms are not what really matter. The Buddha always pointed to the
-heart, the place we need to focus. He emphasized this because we easily
+heart, the place we need to focus. He emphasised this because we easily
 forget, becoming too concerned with how things appear. This verse is
-about an inebriated householder shocked by massive disappointment into
+about an inebriated householder, shocked by massive disappointment into
 despair. The Buddha’s teachings, pointing directly at that which really
 matters, transformed his despair; instead of falling apart, he realised
 perfect unconditioned peace. When the focus of our practice is merely on
@@ -725,34 +725,34 @@ living is noble being.
 
 The Buddha lived in this world as we do. And despite all the turmoil he
 realised a state of imperturbability - to ‘become patient as the earth’.
-Whatever is poured on it, burnt on it, or done to it, the earth just
-goes on being what it is, doing what it does. Patient endurance is not a
-weak option; it is strengthening and kind. With patient endurance we
-discover the ability to allow our present experience to be here, just as
-it is, until we have learned what we need to learn.
+Whatever is poured on it, burnt on it or done to it, the earth just goes
+on being what it is, doing what it does. Patient endurance is not a weak
+option; it is strengthening and kind. With patient endurance we discover
+the ability to allow our present experience to be here, just as it is,
+until we have learned what we need to learn.
 {:.dhp-reflection}
 
 
 > Making an arbitrary decision\\
 > does not amount to justice.\\
-> Having considered arguments\\
-> for and against,\\
-> the wise decide the case.
+> The wise decide the case after\\
+> considering the arguments\\
+> for and against.
 >
 > *v. 256*
 {:.dhp-verse #page35}
 
-You are under pressure to make a decision. Is it possible to remain cool
-and calm when others want you to decide in their favour? Can you remain
+You are under pressure to make a decision. Is it possible to remain cool
+and calm when others want you to decide in their favour? Can you remain
 free from bias and arrive at a just decision? How do we hold our views?
 Having a strong opinion can feel great; it can appear as confidence. But
 such is the nature of fundamentalism; so too is providing simplistic
 answers to complex questions. Rigid views and simplistic solutions are
-not aspects of a spacious mind; a mind that can consider all aspects of
+not aspects of a spacious mind, a mind that can consider all aspects of
 a dilemma. It usually takes time to arrive at a balanced, thoroughly
 considered view. It also requires an ability to listen from a place of
-inner quiet. If we are mentally preparing our rebuttal we are not really
-listening.
+inner quiet. If we are mentally preparing our rebuttal, we are not
+really listening.
 {:.dhp-reflection}
 
 
@@ -768,7 +768,7 @@ listening.
 Trusting in true principles is not always easy. Pursuing popular opinion
 is not always wise. Not being dissuaded by doubts or mere speculation,
 we see how our deepest questions about reality lead us to insight. Trust
-is a force for transformation, so too is patience. It is almost
+is a force for transformation; so too is patience. It is almost
 unimaginable how an acorn can grow into an oak tree, but it does. We
 need trust. We need patience. Like trees, these forces for
 transformation can be cultivated and inspire us towards that which is
@@ -784,14 +784,15 @@ inwardly great and inherently free of all suffering.
 > *v. 91*
 {:.dhp-verse #page37}
 
-It is time to move on. We might know this on one level yet another part
+It is time to move on. We might know this on one level, yet another part
 of us holds back. If we attempt to let go because we think we should –
 instead of discovering renewed inspiration – there will be resistance.
 But encountering disappointment is OK too if we are alert to our heart’s
 true needs. Our deepest need is to be free from ignorance. There is no
-place we can truly settle until we have fully realised who and what we
-are. This path of awareness has the power to transform absolutely
-everything into understanding. Swans glide on – no resistance.
+place where we can truly settle until we have fully realised who and
+what we are. This path of awareness has the power to transform
+absolutely everything into understanding. Swans glide on – no
+resistance.
 {:.dhp-reflection}
 
 
@@ -823,14 +824,14 @@ is the way of transformation.
 > *v. 258*
 {:.dhp-verse #page39}
 
-Struggling to become peaceful and wise often stirs things up while
+Struggling to become peaceful and wise often stirs things up, while
 carefully allowing the activity of heart and mind to cease naturally
 calms things down. Wisdom is not discovered by following habits of
 seeking that which we like. When pain and disappointment come to us we
 can learn to meet them with a quality of willingness and awareness that
 leads to understanding. When happiness and delight come we can be
-refreshed and renewed by our experience without becoming lost in them.
-Enmity and fear are not necessarily obstacles. They can be our teachers
+refreshed and renewed by our experience, without becoming lost in them.
+Enmity and fear are not necessarily obstacles. They can be our teachers,
 pointing to a more spacious and wise way of living.
 {:.dhp-reflection}
 
@@ -843,17 +844,17 @@ pointing to a more spacious and wise way of living.
 > *v. 82*
 {:.dhp-verse #page40}
 
-We might think, ‘If the Buddha were here today to teach me, I too could
-get enlightened.’ However when the Buddha was around there were many who
-met him, heard him, lived with him and yet didn’t recognise him or the
-Truth to which he was pointing. At the end of his life one of the monks
-asked the Buddha who would take his place when he was gone, to which he
-replied that the Dhamma would take his place. On an earlier occasion he
-had taught that seeing the Dhamma was the same as seeing the Buddha.
-Listening to Dhamma is attending fully to and contemplating wisely that
-which is happening right now. So we don’t need to feel bad because we
-can’t listen to a talk directly from the Buddha. We learn to be more
-receptive to life.
+We might think, “If the Buddha were here today to teach me, I too could
+get enlightened.” However, when the Buddha was around there were many
+who met him, heard him, lived with him and yet didn’t recognise him or
+the Truth to which he was pointing. At the end of his life one of the
+monks asked the Buddha who would take his place when he was gone, to
+which he replied that the Dhamma would take his place. On an earlier
+occasion he had taught that seeing the Dhamma was the same as seeing the
+Buddha. Listening to Dhamma is attending fully to and contemplating
+wisely that which is happening right now. So we don’t need to feel bad
+because we can’t listen to a talk directly from the Buddha. We learn to
+be more receptive to life.
 {:.dhp-reflection}
 
 
@@ -867,8 +868,8 @@ receptive to life.
 
 The darkness of the world comes from habits of avoidance and indulgence.
 Wholesome acts uncover the light that is already here. Paying attention
-to old worn-out ways in the right manner at the right time with
-here-and-now, judgment-free, body-mind awareness leads to
+to old worn-out ways in the right manner, at the right time, with
+here-and-now, judgement-free, body-mind awareness, leads to
 transformation. We don’t have to get rid of anything. We don’t have any
 bad stuff. Painful memories, painful sensations do not have to become
 suffering. With right attention everything leads to increased light.
@@ -885,14 +886,14 @@ suffering. With right attention everything leads to increased light.
 {:.dhp-verse #page42}
 
 Is what I am doing with my life giving me what I am looking for? We do
-succeed from time to time in gratifying our wishes but lasting happiness
-comes only from being freed of the irritation of wanting. If we ask
-ourselves the right questions at the right time, a radically different
-view is revealed: the way of contentment draws us inwards, not outwards.
-Rather than following an impulse to want more, we can look directly at
-the wanting itself. And for a moment the sting of craving ceases. We
-have learned a little more about what it means to be a disciple of the
-Buddha.
+succeed from time to time in gratifying our wishes, but lasting
+happiness comes only from being freed of the irritation of wanting. If
+we ask ourselves the right questions at the right time, a radically
+different view is revealed: the way of contentment draws us inwards, not
+outwards. Rather than following an impulse to want more, we can look
+directly at the wanting itself. And for a moment the sting of craving
+ceases. We have learned a little more about what it means to be a
+disciple of the Buddha.
 {:.dhp-reflection}
 
 
@@ -923,13 +924,13 @@ seek the middle way.
 {:.dhp-verse #page44}
 
 Is it possible to have too much modesty? It is possible to have the
-wrong kind of modesty; when, for example, refraining from blatant greed
+wrong kind of modesty, when, for example, refraining from blatant greed
 is being manipulative. Modesty, frugality and discipline: words like
 these can make us feel uneasy. Yet certainly there are timeless
 principles encoded in them. When we have true modesty we look for the
-‘right amount’ of things. We seek the difference between settling for
-‘good enough’ and being too timid to excel. With right discipline we are
-focussed on the task at hand without compromising sensitivity. One
+“right amount” of things. We seek the difference between settling for
+“good enough” and being too timid to excel. With right discipline we are
+focused on the task at hand without compromising sensitivity. One
 skilled in right discipline can say no when needed, not out of judgement
 or mere preference, but as someone who cares.
 {:.dhp-reflection}
@@ -946,7 +947,7 @@ or mere preference, but as someone who cares.
 
 The world is our village. Can we move through our world without
 disturbing that which is beautiful about it? Sages and renunciates might
-live on alms-food gathered from the village but most people need to use
+live on alms-food gathered from the village, but most people need to use
 money. There is nothing inherently wrong about money. It is a symbol for
 the energy with which we interact in our world. The Buddha’s guidelines
 on cultivating Right Livelihood indicate harmless and considerate ways
@@ -969,10 +970,10 @@ it.
 When actions of body and speech are an expression of inner ease, we find
 the realm of relationships more rewarding. It’s not by merely following
 our wish to be liked or any other gratification of desire that we live
-with lasting happiness; rather it is by appreciating where the true
-causes for contentment lie. Even wholesome wishes if held too tightly
+with lasting happiness; rather, it is by appreciating where the true
+causes for contentment lie. Even wholesome wishes, if held too tightly,
 can lead to discontentment. It’s clinging that’s the problem. When we
-see clearly our habits of clinging, at that time and in that place we
+see our habits of clinging clearly, at that time and in that place we
 also see how we don’t have to cling; we find the way out.
 {:.dhp-reflection}
 
@@ -992,8 +993,8 @@ It doesn’t matter that we don’t know all there is to know about Dhamma.
 It is how we apply the teachings that counts. Are we living
 wholeheartedly according with what we have learned? This is a more
 useful line of enquiry than, ‘When can I go on another retreat?’ or ‘If
-I could only knuckle down to more study?’ Such questions are OK if they
-lead us to releasing attachments but not if they are an expression of
+I could only knuckle down to more study.’ Such questions are OK if they
+lead us to releasing attachments, but not if they are an expression of
 our addiction to always wanting or becoming more. If what is needed is a
 subtle shift of attention to simply being more mindful in the present
 moment, even striving hard for profound insights obstructs our progress.
@@ -1012,12 +1013,13 @@ benefit of walking the Way.
 
 With the right quality of mindfulness at the right moment, we can see
 why and how attaching to joy and sorrow perpetuates suffering. We become
-interested in how to experience pleasure without making it ‘my’ pleasure
-or creating an ‘I’ that is having a good time. Wise reflection shows us
-that when attachment is taken out of the experience happiness isn’t
-diminished – in fact it is enhanced. When we are accurately aware,
-intelligence functions in the service of insight. If we appreciate how
-grasping at the pleasure spoils the beauty, an ease of being emerges.
+interested in how to experience pleasure without making it “my”
+pleasure, or creating an “I” that is having a good time. Wise reflection
+shows us that when attachment is taken out of the experience happiness
+isn’t diminished – in fact, it is enhanced. When we are accurately
+aware, intelligence functions in the service of insight. If we
+appreciate how grasping at the pleasure spoils the beauty, ease of being
+emerges.
 {:.dhp-reflection}
 
 
@@ -1035,11 +1037,11 @@ It is hard to feel afraid without thinking something is going wrong. We
 readily react by judging ourselves and others, in an attempt to escape
 the pain of fear. It doesn’t work – neither does running off into the
 wilds. Even sacred places are deemed to fail us if we are motivated by a
-wish to escape. Turning to our refuge in Dhamma however can trigger an
-interest in understanding fear and learning from fear. Can we experience
-the fear sensation without ‘becoming’ afraid? Fear is still fear but it
+wish to escape. Turning to our refuge in Dhamma, however, can trigger an
+interest in understanding fear and learning from it. Can we experience
+the fear sensation without ‘becoming’ afraid? Fear is still fear, but it
 is perceived from an expanded, less cramped and less threatened
-awareness. We can even begin to see that fear too is ‘just so’. A
+awareness. We can even begin to see that fear too is “just so.” A
 non-judgemental, whole body-mind acknowledgement of the condition of
 fear, here and now, can transform our pain into freedom. Willingness to
 meet ourselves where we find ourselves is the way.
@@ -1055,9 +1057,9 @@ meet ourselves where we find ourselves is the way.
 > *v. 193*
 {:.dhp-verse #page50}
 
-Associating with wise beings is certainly a blessing but it is not
+Associating with wise beings is certainly a blessing, but it is not
 always easy. Their openness can contrast painfully with our
-contractedness. However, wise beings are also compassionate so it is
+contractedness. However, wise beings are also compassionate, so it is
 easier to take the medicine. Eventually we feel grateful. After his
 enlightenment the Buddha felt so much gratitude for his previous
 teachers that one of the first things he did was try to find them and
@@ -1103,13 +1105,13 @@ rightly set they capture the wind which powers the vessel onwards.
 The Buddha’s final and complete realisation was to discover that he had
 been believing in something that was not true. He had been deceived by
 what he calls the house-builder. The houses are the structures of mind;
-the ‘me’ and the ‘mine’ we take so seriously. ‘It is me that is
-longing.’ ‘It is me that is feeling disappointed.’ ‘It is my mood, my
-body, my mind.’ He saw clearly how these impressions had been
+the ‘me’ and the ‘mine’ we take so seriously. “It is me that is
+longing.” “It is me that is feeling disappointed.” “It is my mood, my
+body, my mind.” He saw clearly how these impressions had been
 constructed by the habits of craving. Having penetrated this with
-profound insight, the process was understood; the mainstay of the house,
+profound insight, he understood the process; the mainstay of the house,
 the ridge-pole, was broken and suffering had ended. Wandering around
-hoping for a solution to his struggles was over. From here on, he would
+hoping for a solution to his struggles was over. From then on, he would
 abide at ease in the state prior to all arising and ceasing; the unmade,
 the undying reality.
 {:.dhp-reflection}
