@@ -405,32 +405,36 @@ pre {
 table.toc h1 {
   text-align: left;
 }
+/* line 5, ../sass/_dhp-refl.sass */
+table.toc td.section {
+  width: 1em;
+}
 
-/* line 7, ../sass/_dhp-refl.sass */
+/* line 9, ../sass/_dhp-refl.sass */
 #content.title-page h1, #content.title-page h2, #content.title-page h3 {
   text-align: center;
 }
-/* line 9, ../sass/_dhp-refl.sass */
+/* line 11, ../sass/_dhp-refl.sass */
 #content.title-page p {
   text-align: center;
 }
-/* line 11, ../sass/_dhp-refl.sass */
+/* line 13, ../sass/_dhp-refl.sass */
 #content.title-page h1 {
   font-size: 1.7em;
 }
-/* line 13, ../sass/_dhp-refl.sass */
+/* line 15, ../sass/_dhp-refl.sass */
 #content.title-page h2 {
   font-size: 1.3em;
   padding-top: 0.5em;
 }
-/* line 16, ../sass/_dhp-refl.sass */
+/* line 18, ../sass/_dhp-refl.sass */
 #content.title-page h3 {
   font-family: "ExistenceLight";
   font-size: 1.3em;
   padding-top: 2.5em;
 }
 
-/* line 21, ../sass/_dhp-refl.sass */
+/* line 23, ../sass/_dhp-refl.sass */
 h1.book-title {
   padding-top: 3em;
   font-size: 1.7em;
@@ -438,13 +442,13 @@ h1.book-title {
   page-break-after: always;
 }
 
-/* line 27, ../sass/_dhp-refl.sass */
+/* line 29, ../sass/_dhp-refl.sass */
 h1 {
   text-align: center;
   font-size: 1.8em;
 }
 
-/* line 31, ../sass/_dhp-refl.sass */
+/* line 33, ../sass/_dhp-refl.sass */
 blockquote.dhp-verse {
   border-left: 1px solid #999999;
   padding: 0.3em 0 0.3em 1em;
@@ -452,17 +456,17 @@ blockquote.dhp-verse {
   text-align: left;
   page-break-before: always;
 }
-/* line 41, ../sass/_dhp-refl.sass */
+/* line 43, ../sass/_dhp-refl.sass */
 blockquote.dhp-verse p {
   font-size: 0.9em;
   text-align: left;
 }
 
-/* line 48, ../sass/_dhp-refl.sass */
+/* line 50, ../sass/_dhp-refl.sass */
 ul.verseindex {
   list-style-type: disc;
 }
-/* line 50, ../sass/_dhp-refl.sass */
+/* line 52, ../sass/_dhp-refl.sass */
 ul.verseindex li {
   font-size: 0.8em;
 }

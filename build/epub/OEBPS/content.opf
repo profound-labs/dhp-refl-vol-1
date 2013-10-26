@@ -42,7 +42,7 @@
     
 
     <dc:publisher>Aruno Publications</dc:publisher>
-    <dc:date opf:event="publication">2013-10-20</dc:date>
+    <dc:date opf:event="publication">2013-10-26</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>en</dc:language>
@@ -60,25 +60,31 @@
 
   <manifest>
     
+    <item href="webfonts/sourcesanspro-italic.ttf" id="webfonts-sourcesanspro-italic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-extralight.ttf" id="webfonts-sourcesanspro-extralight-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-regular.ttf" id="webfonts-sourcesanspro-regular-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-lightitalic.ttf" id="webfonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/existence-light.ttf" id="webfonts-existence-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-bold.ttf" id="webfonts-sourcesanspro-bold-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-light.ttf" id="webfonts-sourcesanspro-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="images/cover_photo.jpg" id="images-cover-photo-jpg" media-type="image/jpeg" />
+    
+    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
+    
     <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
     
     <item href="stylesheets/style-epub.css" id="stylesheets-style-epub-css" media-type="text/css" />
     
-    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
-    
-    <item href="images/cover_photo.jpg" id="images-cover-photo-jpg" media-type="image/jpeg" />
-    
-    <item href="images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
-    
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    
-    <item href="chapters/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/versepages.xhtml" id="chapter_dhammapada-reflections" media-type="application/xhtml+xml" />
-    
     <item href="chapters/introduction.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
     
     <item href="chapters/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
     
@@ -86,19 +92,13 @@
     
     <item href="chapters/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
     
-    <item href="webfonts/sourcesanspro-light.ttf" id="webfonts-sourcesanspro-light-ttf" media-type="application/x-font-truetype" />
+    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
     
-    <item href="webfonts/sourcesanspro-regular.ttf" id="webfonts-sourcesanspro-regular-ttf" media-type="application/x-font-truetype" />
+    <item href="chapters/versepages.xhtml" id="chapter_dhammapada-reflections" media-type="application/xhtml+xml" />
     
-    <item href="webfonts/sourcesanspro-italic.ttf" id="webfonts-sourcesanspro-italic-ttf" media-type="application/x-font-truetype" />
+    <item href="chapters/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
     
-    <item href="webfonts/sourcesanspro-extralight.ttf" id="webfonts-sourcesanspro-extralight-ttf" media-type="application/x-font-truetype" />
-    
-    <item href="webfonts/sourcesanspro-lightitalic.ttf" id="webfonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-truetype" />
-    
-    <item href="webfonts/existence-light.ttf" id="webfonts-existence-light-ttf" media-type="application/x-font-truetype" />
-    
-    <item href="webfonts/sourcesanspro-bold.ttf" id="webfonts-sourcesanspro-bold-ttf" media-type="application/x-font-truetype" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     
   </manifest>
 

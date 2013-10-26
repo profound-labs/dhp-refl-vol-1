@@ -2,8 +2,8 @@
 # Add local extensions to Prophecy here.
 # This file will be loaded by the CLI.
 
-require 'pry'
-require 'pry-debugger'
+#require 'pry'
+#require 'pry-debugger'
 
 require 'csv'
 
