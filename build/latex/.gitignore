@@ -5,4 +5,9 @@ pdf-keep/proofing/
 temp/
 auto/
 book_main.pdf
+cover.pdf
+cover_front.pdf
+cover_back.pdf
+cover_spine.pdf
+cover_spine_L.pdf
 print-specs.odt
