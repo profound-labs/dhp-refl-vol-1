@@ -70,6 +70,11 @@ hmargin=0pt
   \includegraphics[width=\photoWidth,keepaspectratio]{cover_photo.jpg}%
 }%
 
+%\newlength\photoHeight
+%\setlength\photoHeight{\heightof{\TypesetCoffin\Photo}}
+%\typeout{Photo height: \the\photoHeight}
+% Photo height: 180.2pt = 63.570556mm
+
 \SetHorizontalCoffin\Title{%
   \resizebox{\photoWidth}{!}{\titleFont\titleSize\color[gray]{0.35}\soTitle{Dhammapada Reflections}}%
 }%
@@ -84,7 +89,7 @@ hmargin=0pt
 \end{minipage}%
 }%
 
-\JoinCoffins*\CoverWrap[hc,t]\Photo[hc,t](0pt,\baselineskip+\bleed)%
+\JoinCoffins*\CoverWrap[hc,t]\Photo[hc,b](0pt,-57.5mm)%
 \JoinCoffins*\CoverWrap[hc,t]\Title[hc,t](0pt,-60mm)%
 \JoinCoffins*\CoverWrap[hc,t]\Author[hc,t](0pt,-98mm)%
 \makeatother
