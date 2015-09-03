@@ -27,7 +27,7 @@ cover-back:
 
 cover-spine:
 	$(LATEX) $(LATEX_OPTS) cover_spine.tex
-	+pdftk cover_spine.pdf cat 1-endL output cover_spine_L.pdf
+	+pdftk cover_spine.pdf cat 1-endeast output cover_spine_east.pdf
 
 cover-page:
 	$(LATEX) $(LATEX_OPTS) cover.tex

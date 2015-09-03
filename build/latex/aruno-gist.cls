@@ -37,12 +37,14 @@
 \usepackage[cmyk]{xcolor}
 
 \usepackage[pdftex]{graphicx}
-\graphicspath{{../../images/}}
+\graphicspath{{../../assets/Images/}}
 \usepackage{eso-pic}
 \usepackage{ccicons}
 \usepackage{enumitem}
 
 \usepackage{tikz}
+\newif\ifwebversion
+\webversionfalse
 
 %% === Define colors ===================================================
 
@@ -53,6 +55,7 @@
 \definecolor{chaptitle}{gray}{0.3}
 % \definecolor{chapsubtitle}{gray}{0.6}
 \definecolor{footnoterule}{gray}{0.5}
+\definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
 %% ============================
 %% Load fonts (before multicol)
@@ -75,8 +78,6 @@
 \newfontfamily\footFont[ItalicFont = Shaker 2 Light Italic]{Shaker 2 Light}
 
 \newfontfamily\tocPageNumFont{Shaker Pali}
-
-\newcommand{\pali}[1]{\textit{\shakerPali #1}}
 
 %% ===========================================
 %% Set font sizes, indentation, etc.
@@ -147,6 +148,19 @@ outer=15mm
 %% ========
 
 \RequirePackage{hyperref}
+\ifwebversion
+% Web version: colored link text
+\hypersetup{
+  unicode=true,
+  colorlinks=true,
+  linkcolor=link,
+  citecolor=link,
+  filecolor=link,
+  urlcolor=link
+}
+\else
+% Desktop version: link colors to text color, so that it doesn't
+% interfere with printing, but can still test is link targets work.
 \hypersetup{
   colorlinks=true,
   unicode=true,
@@ -155,6 +169,7 @@ outer=15mm
   filecolor=textbody,
   urlcolor=textbody
 }
+\fi
 \RequirePackage[
   open,
   openlevel=2
@@ -276,7 +291,7 @@ outer=15mm
   itemsep=0pt,
   topsep=0pt,
   parsep=0pt,
-  partopsep=3pt,
+  partopsep=1pt,
 ]%
 }{\end{itemize}}
 
@@ -288,6 +303,7 @@ outer=15mm
 
 \def\gobble@spaces{\@ifnextchar\space{\@gobble\gobble@spaces}{}}
 \newcommand{\verseref}[1]{\mbox{}\marginpar{\par\vspace*{-7pt}\oldNumFont #1.}\gobble@spaces}
+\newcommand{\pali}[1]{\textit{\shakerPali #1}}
 \newcommand{\suttaref}[1]{\hspace*{\fill}\footnotesize\begingroup #1 \endgroup\par}
 \newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
 
@@ -298,6 +314,20 @@ outer=15mm
   \setVaggaName{\MakeLowercase{#2}}%
   \chapter{#1}%
   \markboth{#1}{#2}%
+}
+
+% If class option webVersion is used, show content in a paper sized
+% minipage, empty page otherwise.
+% Redefine \color{webcoverbg} to change page background color.
+\newcommand\webcover[1]{%
+\thispagestyle{empty}\mbox{}
+\ifwebversion
+\AddToShipoutPictureFG*{\put(0,0){%
+\begin{minipage}[b][\paperheight][c]{\paperwidth}%
+#1
+\end{minipage}}}
+\fi
+\clearpage
 }
 
 %% =======================

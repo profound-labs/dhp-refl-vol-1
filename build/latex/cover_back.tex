@@ -1,19 +1,43 @@
-\documentclass[11pt,oneside,final]{memoir}
+\documentclass[11pt,oneside,final,showtrims]{memoir}
 
+\makeatletter
 \usepackage[cmyk]{xcolor}
 
 \usepackage[pdftex]{graphicx}
-\graphicspath{{../../images/}}
+\graphicspath{{../../assets/Images/}}
 
-\usepackage{geometry}
-\geometry{
-paperwidth=135mm,
-paperheight=120mm,
-nohead,
-nofoot,
-margin=0pt
-}
-\setstocksize{120mm}{135mm}
+\usepackage{calc}
+
+% === setup page layout ===
+
+\newlength\BOOK@paperHeight
+\newlength\BOOK@paperWidth
+\setlength{\BOOK@paperHeight}{120mm}
+\setlength{\BOOK@paperWidth}{135mm}
+
+\ifshowtrims
+  \setstocksize{\BOOK@paperHeight+30mm}{\BOOK@paperWidth+30mm}
+  \setlength{\paperheight}{\BOOK@paperHeight}
+  \setlength{\paperwidth}{\BOOK@paperWidth}
+  \trimXmarks
+  \trimLmarks
+  \quarkmarks
+  \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+  \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+\else\relax
+  \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+  \settrimmedsize{\stockheight}{\stockwidth}{*}
+  \settrims{0pt}{0pt}
+\fi
+
+\setlrmarginsandblock{0pt}{0pt}{*}
+\setulmarginsandblock{0pt}{0pt}{*}
+\setheaderspaces{*}{0pt}{*}
+\setheadfoot{0pt}{-10pt}
+
+\checkandfixthelayout% This will typeout values in pt.
+\settypeoutlayoutunit{mm}% It is useful to see layout values in mm too.
+\typeoutlayout
 
 \usepackage{fontspec}
 \setmainfont[
@@ -21,9 +45,12 @@ margin=0pt
     ItalicFont = Shaker 2 Light Italic
 ]{Shaker 2 Light}
 
+\usepackage[final]{microtype}
+
 \pagestyle{empty}
 
 \setlength{\parindent}{0pt}
+\makeatother
 
 \begin{document}
 \centering
@@ -38,7 +65,7 @@ margin=0pt
 ARUNO PUBLICATIONS
 \vspace*{4mm}
 
-for free distribution
+\emph{for free distribution}
 \vspace*{9mm}
 
 \end{document}

@@ -1,13 +1,31 @@
-\documentclass[11pt,oneside,final]{article}
+\documentclass[11pt,oneside,final,showtrims]{memoir}
 
 \makeatletter
 \usepackage{soul}
 \usepackage[cmyk]{xcolor}
 
 \usepackage[pdftex]{graphicx}
-\graphicspath{{../../images/}}
+\graphicspath{{../../assets/Images/}}
+
 \usepackage{calc}
 \usepackage{xcoffins}
+
+\newif\ifvarnishmask
+\varnishmaskfalse
+
+\newlength\BOOK@tmp@width
+\newlength\BOOK@tmp@height
+
+% #1 -- the commands to hold the place for
+\newcommand\placeholder[1]{%
+\ifvarnishmask%
+\settowidth{\BOOK@tmp@width}{#1}%
+\settototalheight{\BOOK@tmp@height}{#1}%
+{\color{black}\rule{\BOOK@tmp@width}{\BOOK@tmp@height}}%
+\else%
+#1%
+\fi%
+}
 
 % === setup page layout ===
 
@@ -16,16 +34,29 @@
 \setlength{\BOOK@paperHeight}{120mm}
 \setlength{\BOOK@paperWidth}{135mm}
 
-\usepackage{geometry}
-\geometry{
-paperwidth=\BOOK@paperWidth,
-paperheight=\BOOK@paperHeight,
-nohead,
-nofoot,
-vmargin=0pt,
-hmargin=0pt
-}
-%\setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+\ifshowtrims
+  \setstocksize{\BOOK@paperHeight+30mm}{\BOOK@paperWidth+30mm}
+  \setlength{\paperheight}{\BOOK@paperHeight}
+  \setlength{\paperwidth}{\BOOK@paperWidth}
+  \trimXmarks
+  \trimLmarks
+  \quarkmarks
+  \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+  \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+\else\relax
+  \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+  \settrimmedsize{\stockheight}{\stockwidth}{*}
+  \settrims{0pt}{0pt}
+\fi
+
+\setlrmarginsandblock{0pt}{0pt}{*}
+\setulmarginsandblock{0pt}{0pt}{*}
+\setheaderspaces{*}{0pt}{*}
+\setheadfoot{0pt}{-10pt}
+
+\checkandfixthelayout% This will typeout values in pt.
+\settypeoutlayoutunit{mm}% It is useful to see layout values in mm too.
+\typeoutlayout
 
 \usepackage{fontspec}
 \setmainfont[Ligatures = TeX]{Shaker 2 Light}
@@ -40,6 +71,8 @@ hmargin=0pt
 
 \newcommand\titleSize{\@setfontsize\titleSize{18}{19}}
 \newcommand\volumeSize{\@setfontsize\volumeSize{10.5}{11}}
+
+\usepackage[final]{microtype}
 
 \newlength\bleed
 \setlength{\bleed}{1mm}
@@ -58,7 +91,6 @@ hmargin=0pt
 \pagestyle{empty}
 
 \setlength{\parindent}{0pt}
-
 \makeatother
 
 \begin{document}
@@ -67,7 +99,9 @@ hmargin=0pt
 
 \makeatletter
 \SetHorizontalCoffin\Photo{%
-  \includegraphics[width=\photoWidth,keepaspectratio]{cover_photo.jpg}%
+\placeholder{%
+\includegraphics[width=\photoWidth,keepaspectratio]{cover_photo.jpg}%
+}%
 }%
 
 %\newlength\photoHeight
@@ -90,8 +124,11 @@ hmargin=0pt
 }%
 
 \JoinCoffins*\CoverWrap[hc,t]\Photo[hc,b](0pt,-57.5mm)%
+\ifvarnishmask\relax
+\else
 \JoinCoffins*\CoverWrap[hc,t]\Title[hc,t](0pt,-60mm)%
 \JoinCoffins*\CoverWrap[hc,t]\Author[hc,t](0pt,-98mm)%
+\fi
 \makeatother
 
 \TypesetCoffin\CoverWrap%

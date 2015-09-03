@@ -7,5 +7,5 @@ sed '/begin[{]dhpVerse/{
     s/^\([0-9]\+-\)[0-9]*\([0-9] \)/\1\2/;
 }' |\
 grep -E '^[0-9-]+ &' | sort -h |\
-sed 's/^/V. /' > index
+sed -e 's/\\\\ &/ \&/; s/^/v. /;' > index
 

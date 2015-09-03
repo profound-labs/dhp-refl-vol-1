@@ -2,6 +2,8 @@
 
 \usepackage{mylayout}
 
+\webversiontrue
+
 %% Details of the book
 %% ===================
 
@@ -9,13 +11,18 @@
 \subtitle{52 verses from the Dhammapada with comments}
 \author{Ajahn Munindo}
 \date{}
-\editionInfo{}
+\editionInfo{\textit{First edition}, 8,000 copies, printed in Malaysia, 2015}
 \ISBN{978-1-908444-40-0}
 
 \hyphenation{prep-a-ra-tion belief attrac-tive under-stand-ing moment}
 
 \begin{document}
 
+\ifwebversion
+\webcover{%
+\includegraphics[width=\paperwidth]{./cover_front.pdf}
+}
+\else
 \thispagestyle{empty}
 \mbox{}
 \pagecolor[gray]{0.7}
@@ -24,6 +31,7 @@
 \pagecolor{white}
 \mbox{}
 \newpage
+\fi
 
 %% Frontmatter
 %% ===========
@@ -35,14 +43,15 @@
 
 \input{../../manuscript/tex/frontverse.tex}
 
-%\input{../../manuscript/tex/acknowledgement_katannyuta.tex}
+\input{../../manuscript/tex/acknowledgement_katannyuta.tex}
+
 %\input{../../manuscript/tex/dedication_kushlanig.tex}
 
-% No dedication, just an empty page:
-
-\newpage
-\pagestyle{empty}
-\mbox{}
+% If no dedication, just an empty page:
+%
+%\newpage
+%\pagestyle{empty}
+%\mbox{}
 
 \input{../../manuscript/tex/titlepage.tex}
 
@@ -90,16 +99,17 @@
 %% Copyright details
 %% -----------------
 
-\cleartorecto
+\cleartoverso
 \thispagestyle{plain}
 \input{../../manuscript/tex/copyright-details.tex}
 
-\newpage
+\cleartorecto
 \thispagestyle{empty}
+\pagecolor[gray]{0.7}
 \mbox{}
 \newpage
 \thispagestyle{empty}
-\pagecolor[gray]{0.7}
+\pagecolor{white}
 \mbox{}
 
 \end{document}
