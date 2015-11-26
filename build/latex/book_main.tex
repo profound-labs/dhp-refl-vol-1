@@ -2,7 +2,7 @@
 
 \usepackage{mylayout}
 
-\webversiontrue
+\webversionfalse
 
 %% Details of the book
 %% ===================
@@ -23,14 +23,20 @@
 \includegraphics[width=\paperwidth]{./cover_front.pdf}
 }
 \else
+
+% Gray color page
+% Pantone 423M
+% CMYK 22, 14, 18, 45
+
 \thispagestyle{empty}
 \mbox{}
-\pagecolor[gray]{0.7}
+\pagecolor{frontgray}
 \newpage
 \thispagestyle{empty}
 \pagecolor{white}
 \mbox{}
 \newpage
+
 \fi
 
 %% Frontmatter
@@ -102,14 +108,5 @@
 \cleartoverso
 \thispagestyle{plain}
 \input{../../manuscript/tex/copyright-details.tex}
-
-\cleartorecto
-\thispagestyle{empty}
-\pagecolor[gray]{0.7}
-\mbox{}
-\newpage
-\thispagestyle{empty}
-\pagecolor{white}
-\mbox{}
 
 \end{document}
