@@ -19,24 +19,8 @@ print-specs:
 view:
 	evince $(FILE).pdf &
 
-cover-front:
-	$(LATEX) $(LATEX_OPTS) cover_front.tex
-
-cover-back:
-	$(LATEX) $(LATEX_OPTS) cover_back.tex
-
-cover-spine:
-	$(LATEX) $(LATEX_OPTS) cover_spine.tex
-	+pdftk cover_spine.pdf cat 1-endeast output cover_spine_east.pdf
-
-cover-page:
-	$(LATEX) $(LATEX_OPTS) cover.tex
-
 cover:
-	make cover-front
-	make cover-back
-	make cover-spine
-	make cover-page
+	$(LATEX) $(LATEX_OPTS) cover.tex
 
 clean:
 	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}

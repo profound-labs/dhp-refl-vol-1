@@ -6,4 +6,5 @@ publish/proofing/
 *.aux
 *.log
 *.toc
+cover.pdf
 TODO.org
